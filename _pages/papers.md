@@ -1,10 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "Papers"
+permalink: /papers/
 author_profile: true
-redirect_from: 
-  - /papers/
-  - /papers.html
+redirect_from:
+  - /resume
 ---
 
 Publications
