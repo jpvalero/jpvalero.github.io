@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 
-  * European Conference on Networks and Communications $ 6G Summit (EuCNC/6G Summit) 2025. 
+  * European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit) 2025. 
 
   * IEEE Wireless Communications and Networking Conference ([2025](https://wcnc2025.ieee-wcnc.org/)). 
 
   * 4th Workshop on Serverless computing for pervasive cloud-edge-device systems and services (STARLESS [2025](https://starless.iit.cnr.it/)), co-located with IEEE Percom 2025. 
 
-  * International Conference on Computer Communications and Networks (ICCCN [2024] (http://www.icccn.org/icccn24/index.html)). 
+  * International Conference on Computer Communications and Networks (ICCCN [2024](http://www.icccn.org/icccn24/index.html)). 
   
   * 3nd Workshop on Serverless computing for pervasive cloud-edge-device systems and services (STARLESS [2024](https://starless.iit.cnr.it/tpc/)), co-located with IEEE Percom 2024. 
 
