@@ -1,14 +1,13 @@
 ---
 layout: archive
-title: "Papers"
+title: "Publications"
 permalink: /papers/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Publications
-======
+
 
 
 
