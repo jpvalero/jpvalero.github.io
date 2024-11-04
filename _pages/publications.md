@@ -1,11 +1,11 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
+permalink: /
+title: "Papers"
 author_profile: true
+redirect_from: 
+  - /papers/
+  - /papers.html
 ---
-
-{% include base_path %}
 
 Publications
 ======
