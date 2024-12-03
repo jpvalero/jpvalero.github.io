@@ -26,4 +26,5 @@ Current projects:
 
 
 Past projects:
-  * 
+  * [6G-SORUS:](This project aims to create a sustainable extended edge for B5G networks using vRANs, RIS, and UAVs. (UNICA-6G))
+  * [Hexa-X:](A flagship for B5G/6G vision and intelligent fabric of technology enablers connecting human, physical, and digital worlds. (H2020))
