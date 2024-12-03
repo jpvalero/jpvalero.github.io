@@ -13,7 +13,7 @@ redirect_from:
 
 [6] **J. Perez-Valero**, A. Banchs, P. Serrano, J. Ortín, J. Garcia-Reinoso and X. Costa-Pérez, "Energy-Aware Adaptive Scaling of Server Farms for NFV with Reliability Requirements," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2023.3288604.
 
-[5] Habibi, M. A., Sánchez, A. G., Pavón, I. L., Han, B., Serrano, P., **Pérez-Valero, J.**, ... \& Schotten, H. D. (2023). The Architectural Design of Service Management and Orchestration in 6G Communication Systems.
+[5] Habibi, M. A., Sánchez, A. G., Pavón, I. L., Han, B., Serrano, P., **Pérez-Valero, J.**, ... & Schotten, H. D. (2023). The Architectural Design of Service Management and Orchestration in 6G Communication Systems.
 
 [4] **J. Pérez-Valero** et al., "AI-driven Orchestration for 6G Networking: the Hexa-X vision," 2022 IEEE Globecom Workshops (GC Wkshps), Rio de Janeiro, Brazil, 2022, pp. 1335-1340, doi: 10.1109/GCWkshps56602.2022.10008726.
 
