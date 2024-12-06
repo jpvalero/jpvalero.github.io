@@ -11,6 +11,7 @@ Jesús Pérez-Valero completed his B.Sc. and M.Sc. degrees in 2019 and 2020, res
 
 Latest news
 ======
+  * 04/12/2024 - I joined Universidad de Murcia as a Postdoc Researcher. 
   * 20/09/2024 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid. 
 
 Recent publications
@@ -22,9 +23,10 @@ Recent publications
 Research projects
 ======
 Current projects: 
-  * 
+  * [6G-CLOUD:](https://www.6g-cloud.eu/) Service-oriented 6G Network Architecture for Distributed, Intelligent, and Sustainable Cloud-native Communication Systems (SNS JU project funded by European Commission.)
 
 
 Past projects:
   * [6G-SORUS:](https://unica6g.it.uc3m.es/en/6g-sorus/) This project aims to create a sustainable extended edge for B5G networks using vRANs, RIS, and UAVs. (UNICA-6G)
   * [Hexa-X:](https://hexa-x.eu/) A flagship for B5G/6G vision and intelligent fabric of technology enablers connecting human, physical, and digital worlds. (H2020)
+  * [ULTERIOR:](https://researchportal.uc3m.es/display/act538422)  Ultra Reliable Energy efficient NFV system for B5G networks (NEC Laboratories Europe).    
