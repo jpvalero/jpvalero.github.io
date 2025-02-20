@@ -12,19 +12,19 @@ I have co-authored peer-reviewed publications in top-tier international journals
 Journals  
 ======
 
-[4] **Jesus Perez-Valero**, Jaime Garcia-Reinoso, Albert Banchs, Pablo Serrano, Jorge Ortin, Xavier Costa-Perez. "Performance trade-offs of auto scaling schemes for NFV with reliability requirements". Computer Communications 2023.
+[4] **Jesus Perez-Valero**, Jaime Garcia-Reinoso, Albert Banchs, Pablo Serrano, Jorge Ortin, Xavier Costa-Perez. "Performance trade-offs of auto scaling schemes for NFV with reliability requirements". Computer Communications 2023. **Q1 in JCR**
 
-[3] **J. Perez-Valero**, A. Banchs, P. Serrano, J. Ortín, J. Garcia-Reinoso and X. Costa-Pérez, "Energy-Aware Adaptive Scaling of Server Farms for NFV with Reliability Requirements," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2023.3288604.
+[3] **J. Perez-Valero**, A. Banchs, P. Serrano, J. Ortín, J. Garcia-Reinoso and X. Costa-Pérez, "Energy-Aware Adaptive Scaling of Server Farms for NFV with Reliability Requirements," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2023.3288604. **Q1 in JCR**
 
-[2] **Pérez-Valero, J.**; Garcia-Sanchez, A.-J.; Ruiz Marín, M.; Garcia-Haro , J. A Prototype Framework Design for Assisting the Detection of Atrial Fibrillation Using a Generic Low-Cost Biomedical Sensor. Sensors 2020, 20, 896. 
+[2] **Pérez-Valero, J.**; Garcia-Sanchez, A.-J.; Ruiz Marín, M.; Garcia-Haro , J. A Prototype Framework Design for Assisting the Detection of Atrial Fibrillation Using a Generic Low-Cost Biomedical Sensor. Sensors 2020, 20, 896. **Q1 in JCR**
 
-[1] **Pérez-Valero, J.**; Caballero Pintado, M.V.; Melgarejo, F.; García-Sánchez, A.-J.; Garcia-Haro, J.; García Córdoba, F.; García Córdoba, J.A.; Pinar, E.; García Alberola, A.; Matilla-García, M.; Curtin, P.; Arora, M.; Ruiz Marín, M. Symbolic Recurrence Analysis of RR Interval to Detect Atrial Fibrillation. J. Clin. Med. 2019, 8, 1840.
+[1] **Pérez-Valero, J.**; Caballero Pintado, M.V.; Melgarejo, F.; García-Sánchez, A.-J.; Garcia-Haro, J.; García Córdoba, F.; García Córdoba, J.A.; Pinar, E.; García Alberola, A.; Matilla-García, M.; Curtin, P.; Arora, M.; Ruiz Marín, M. Symbolic Recurrence Analysis of RR Interval to Detect Atrial Fibrillation. J. Clin. Med. 2019, 8, 1840. **Q1 in JCR**
 
 
 Conferences and Workshops 
 ======
 
-[4] Livia Elena Chatzieleftheriou, **Jesus Perez-Valero**, Jorge Martín-Pérez, and Pablo Serrano. 2024. Sustainable Provision of URLLC Services for V2N: Analysis and Optimal Configuration. In International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’24), October 14–17, 2024, Athens, Greece. ACM, New York, NY, USA. 
+[4] Livia Elena Chatzieleftheriou, **Jesus Perez-Valero**, Jorge Martín-Pérez, and Pablo Serrano. 2024. Sustainable Provision of URLLC Services for V2N: Analysis and Optimal Configuration. In International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’24), October 14–17, 2024, Athens, Greece. ACM, New York, NY, USA. **CORE A, top conference in computer networks** 
 
 [3] Habibi, M. A., Sánchez, A. G., Pavón, I. L., Han, B., Serrano, P., **Pérez-Valero, J.**, ... & Schotten, H. D. (2023). The Architectural Design of Service Management and Orchestration in 6G Communication Systems.
 
