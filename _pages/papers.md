@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /papers/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Journals: 
+I have co-authored peer-reviewed publications in top-tier international journals and conferences in my field (CORE A conferences, and Q1 JCR journals).
+
+Journals  
 ======
 
 [4] **Jesus Perez-Valero**, Jaime Garcia-Reinoso, Albert Banchs, Pablo Serrano, Jorge Ortin, Xavier Costa-Perez. "Performance trade-offs of auto scaling schemes for NFV with reliability requirements". Computer Communications 2023.
@@ -19,7 +21,7 @@ Journals:
 [1] **Pérez-Valero, J.**; Caballero Pintado, M.V.; Melgarejo, F.; García-Sánchez, A.-J.; Garcia-Haro, J.; García Córdoba, F.; García Córdoba, J.A.; Pinar, E.; García Alberola, A.; Matilla-García, M.; Curtin, P.; Arora, M.; Ruiz Marín, M. Symbolic Recurrence Analysis of RR Interval to Detect Atrial Fibrillation. J. Clin. Med. 2019, 8, 1840.
 
 
-Conferences and Workshops: 
+Conferences and Workshops 
 ======
 
 [4] Livia Elena Chatzieleftheriou, **Jesus Perez-Valero**, Jorge Martín-Pérez, and Pablo Serrano. 2024. Sustainable Provision of URLLC Services for V2N: Analysis and Optimal Configuration. In International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’24), October 14–17, 2024, Athens, Greece. ACM, New York, NY, USA. 
