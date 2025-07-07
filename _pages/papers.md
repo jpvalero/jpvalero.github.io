@@ -12,6 +12,8 @@ I have co-authored peer-reviewed publications in top-tier international journals
 Journals  
 ======
 
+[5] **J. Perez-Valero**, P. Serrano, J. Garcia-Reinoso, A. Banchs and X. Costa-Perez, "Minimum-Cost Design of Auto-Scaling Server Farms Providing Reliability Guarantees" in IEEE Open Journal of the Communications Society **Q1 in JCR** 
+
 [4] **Jesus Perez-Valero**, Jaime Garcia-Reinoso, Albert Banchs, Pablo Serrano, Jorge Ortin, Xavier Costa-Perez. "Performance trade-offs of auto scaling schemes for NFV with reliability requirements". Computer Communications 2023. **Q1 in JCR**
 
 [3] **J. Perez-Valero**, A. Banchs, P. Serrano, J. Ortín, J. Garcia-Reinoso and X. Costa-Pérez, "Energy-Aware Adaptive Scaling of Server Farms for NFV with Reliability Requirements," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2023.3288604. **Q1 in JCR**
