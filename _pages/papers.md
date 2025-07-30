@@ -25,6 +25,9 @@ Journals
 
 Conferences and Workshops 
 ======
+[6] Giannopoulos, S. Spantideas, P. Trakadas, **J. Perez-Valero**, G. Garcia-Aviles and A. S. Gomez, "AI-Driven Self-Healing in Cloud-Native 6G Networks Through Dynamic Server Scaling," 2025 IEEE 11th International Conference on Network Softwarization (NetSoft), Budapest, Hungary, 2025, pp. 43-48
+
+[5] **J. Perez-Valero**, G. Garcia-Aviles, A. E. Giannopoulos, S. T. Spantideas, A. Skarmeta and S. Kukliński, "Rethinking AI-Powered Service Orchestration: The Case for Decentralization," 2025 IEEE 11th International Conference on Network Softwarization (NetSoft), Budapest, Hungary, 2025, pp. 13-18
 
 [4] Livia Elena Chatzieleftheriou, **Jesus Perez-Valero**, Jorge Martín-Pérez, and Pablo Serrano. 2024. Sustainable Provision of URLLC Services for V2N: Analysis and Optimal Configuration. In International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’24), October 14–17, 2024, Athens, Greece. ACM, New York, NY, USA. **CORE A, top conference in computer networks** 
 
