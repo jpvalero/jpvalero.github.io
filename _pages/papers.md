@@ -12,6 +12,8 @@ I have co-authored peer-reviewed publications in top-tier international journals
 Journals  
 ======
 
+[6] L. E. Chatzieleftheriou, **J. Perez-Valero**, J. Martín-Pérez and P. Serrano, "Optimal Scaling and Offloading for Sustainable Provision of Reliable V2N Services in Dynamic and Static Scenarios," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2025.3605408 **Q1 in JCR**
+
 [5] **J. Perez-Valero**, P. Serrano, J. Garcia-Reinoso, A. Banchs and X. Costa-Perez, "Minimum-Cost Design of Auto-Scaling Server Farms Providing Reliability Guarantees," in IEEE Open Journal of the Communications Society, doi: 10.1109/OJCOMS.2025.3586088 **Q1 in JCR** 
 
 [4] **Jesus Perez-Valero**, Jaime Garcia-Reinoso, Albert Banchs, Pablo Serrano, Jorge Ortin, Xavier Costa-Perez. "Performance trade-offs of auto scaling schemes for NFV with reliability requirements". Computer Communications 2023. **Q1 in JCR**
