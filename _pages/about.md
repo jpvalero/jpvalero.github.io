@@ -16,10 +16,8 @@ Latest news
 
 Recent publications
 ======
+  L. E. Chatzieleftheriou, **J. Pérez-Valero**, J. Martín-Pérez and P. Serrano, "Optimal Scaling and Offloading for Sustainable Provision of Reliable V2N Services in Dynamic and Static Scenarios," in IEEE Transactions on Network and Service Management. 
   * **J. Perez-Valero**, P. Serrano, J. Garcia-Reinoso, A. Banchs and X. Costa-Perez, "Minimum-Cost Design of Auto-Scaling Server Farms Providing Reliability Guarantees" in IEEE Open Journal of the Communications Society. 
-  * Livia Elena Chatzieleftheriou, **Jesus Perez-Valero**, Jorge Martín-Pérez, and Pablo Serrano. 2024. Sustainable Provision of URLLC Services for V2N: Analysis and Optimal Configuration. In International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’24), October 14–17, 2024, Athens, Greece. ACM, New York, NY, USA.
-  * **Jesus Perez-Valero**, Jaime Garcia-Reinoso, Albert Banchs, Pablo Serrano, Jorge Ortin, Xavier Costa-Perez. "Performance trade-offs of auto scaling schemes for NFV with reliability requirements". Computer Communications 2023.
-  * **J. Perez-Valero**, A. Banchs, P. Serrano, J. Ortín, J. Garcia-Reinoso and X. Costa-Pérez, "Energy-Aware Adaptive Scaling of Server Farms for NFV with Reliability Requirements," in IEEE Transactions on Mobile Computing
 
 Research projects
 ======
