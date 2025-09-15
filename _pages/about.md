@@ -16,7 +16,8 @@ Latest news
 
 Recent publications
 ======
-  L. E. Chatzieleftheriou, **J. Pérez-Valero**, J. Martín-Pérez and P. Serrano, "Optimal Scaling and Offloading for Sustainable Provision of Reliable V2N Services in Dynamic and Static Scenarios," in IEEE Transactions on Network and Service Management. 
+  * L. E. Chatzieleftheriou, **J. Pérez-Valero**, J. Martín-Pérez and P. Serrano, "Optimal Scaling and Offloading for Sustainable Provision of Reliable V2N Services in Dynamic and Static Scenarios," in IEEE Transactions on Network and Service Management. 
+
   * **J. Perez-Valero**, P. Serrano, J. Garcia-Reinoso, A. Banchs and X. Costa-Perez, "Minimum-Cost Design of Auto-Scaling Server Farms Providing Reliability Guarantees" in IEEE Open Journal of the Communications Society. 
 
 Research projects
