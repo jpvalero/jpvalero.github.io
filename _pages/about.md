@@ -8,8 +8,20 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I am a postdoctoral researcher at the University of Murcia (UMU), where I work under the guidance of Prof. [Antonio Skarmeta](https://portalinvestigacion.um.es/investigadores/333163/detalle). My research interests lie at the intersection of communication system analysis, design and network optimization, with a strong emphasis on energy efficiency, reliability, and practical deployment evaluations. Before joining UMU, I completed my Ph.D. in Telematics Engineering at Universidad Carlos III de Madrid (UC3M), where I was advised by Prof. [Pablo Serrano](https://www.it.uc3m.es/pablo/). Throughout my academic journey, I have actively bridged research and real-world impact, visiting and collaborating with institutions such as [IMDEA Networks](https://networks.imdea.org/), [NEC Laboratories Europe](https://neclab.eu/), and [Fraunhofer FHR](https://www.fhr.fraunhofer.de/en.html). Additionally, I have worked on several EU-funded research projects addressing a range of topics including network orchestration, energy-efficient architectures, and intelligent automation for 5G and 6G systems. 
+I am a postdoctoral researcher at the University of Murcia (UMU), where I work under the guidance of Prof. 
+<a href="https://portalinvestigacion.um.es/investigadores/333163/detalle" target="_blank">Antonio Skarmeta</a>. 
+My research interests lie at the intersection of communication system analysis, design and network optimization, with a strong emphasis on energy efficiency, reliability, and practical deployment evaluations. Before joining UMU, I completed my Ph.D. in Telematics Engineering at Universidad Carlos III de Madrid (UC3M), where I was advised by Prof. 
+<a href="https://www.it.uc3m.es/pablo/" target="_blank">Pablo Serrano</a>. 
+Throughout my academic journey, I have actively bridged research and real-world impact, visiting and collaborating with institutions such as 
+<a href="https://networks.imdea.org/" target="_blank">IMDEA Networks</a>, 
+<a href="https://neclab.eu/" target="_blank">NEC Laboratories Europe</a>, 
+and 
+<a href="https://www.fhr.fraunhofer.de/en.html" target="_blank">Fraunhofer FHR</a>. Additionally, I have worked on several EU-funded research projects addressing a range of topics including network orchestration, energy-efficient architectures, and intelligent automation for 5G and 6G systems.
 </p>
+
+<!-- <p Markdown>
+I am a postdoctoral researcher at the University of Murcia (UMU), where I work under the guidance of Prof. [Antonio Skarmeta](https://portalinvestigacion.um.es/investigadores/333163/detalle). My research interests lie at the intersection of communication system analysis, design and network optimization, with a strong emphasis on energy efficiency, reliability, and practical deployment evaluations. Before joining UMU, I completed my Ph.D. in Telematics Engineering at Universidad Carlos III de Madrid (UC3M), where I was advised by Prof. [Pablo Serrano](https://www.it.uc3m.es/pablo/). Throughout my academic journey, I have actively bridged research and real-world impact, visiting and collaborating with institutions such as [IMDEA Networks](https://networks.imdea.org/), [NEC Laboratories Europe](https://neclab.eu/), and [Fraunhofer FHR](https://www.fhr.fraunhofer.de/en.html). Additionally, I have worked on several EU-funded research projects addressing a range of topics including network orchestration, energy-efficient architectures, and intelligent automation for 5G and 6G systems. 
+</p> -->
 
 Latest news
 ======
