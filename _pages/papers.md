@@ -27,6 +27,8 @@ Journals
 
 Conferences and Workshops 
 ======
+[7] A. Gil-Martínez, **J. Perez-Valero**, J. A. López-Pastor, J. L. Gómez-Tornero and A. Skarmeta-Gómez, "Ambiguity Resolution of Two Conformal Leaky-Wave Antennas via Deep Learning," 2025 International Conference on Indoor Positioning and Indoor Navigation (IPIN), Tampere, Finland, 2025, pp. 1-7
+
 [6] Giannopoulos, S. Spantideas, P. Trakadas, **J. Perez-Valero**, G. Garcia-Aviles and A. S. Gomez, "AI-Driven Self-Healing in Cloud-Native 6G Networks Through Dynamic Server Scaling," 2025 IEEE 11th International Conference on Network Softwarization (NetSoft), Budapest, Hungary, 2025, pp. 43-48
 
 [5] **J. Perez-Valero**, G. Garcia-Aviles, A. E. Giannopoulos, S. T. Spantideas, A. Skarmeta and S. Kukliński, "Rethinking AI-Powered Service Orchestration: The Case for Decentralization," 2025 IEEE 11th International Conference on Network Softwarization (NetSoft), Budapest, Hungary, 2025, pp. 13-18
