@@ -27,6 +27,8 @@ redirect_from:
 
 Reviewing duties: 
 ======
+  * IEEE Transactions on Mobile Computing 2025. 
+  
   * Computer Communications 2025. 
 
   * IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 2024
