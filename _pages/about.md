@@ -6,9 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="background:#ffffffff; padding:10px; border-radius:5px; border:2px solid black;">
+<!-- <div style="background:#ffffffff; padding:10px; border-radius:5px; border:2px solid black;">
   <h1 style="margin:0; text-align:left;">About me</h1>
-</div>
+</div> -->
+# About me 
+<hr style="border: none; border-top: 2px solid #030202ff; margin: 10px 0;">
 <p style="text-align: justify;">
 I am a postdoctoral researcher at the University of Murcia (UMU), where I work under the guidance of Prof. 
 <a href="https://portalinvestigacion.um.es/investigadores/333163/detalle" target="_blank">Antonio Skarmeta</a>. 
@@ -26,28 +28,26 @@ I am a postdoctoral researcher at the University of Murcia (UMU), where I work u
 </p> -->
 
 <!-- simple horizontal line-->
-<!-- # Latest news
+# Latest news
 <hr style="border: none; border-top: 2px solid #030202ff; margin: 10px 0;">
   * 04/12/2024 - I joined Universidad de Murcia as a Postdoc Researcher. 
   * 20/09/2024 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid.  -->
 
-<div style="background:#ffffffff; padding:10px; border-radius:5px; border:2px solid black;">
+<!-- <div style="background:#ffffffff; padding:10px; border-radius:5px; border:2px solid black;">
   <h1 style="margin:0; text-align:left;">Latest news</h1>
 </div>
   * 04/12/2024 - I joined Universidad de Murcia as a Postdoc Researcher. 
-  * 20/09/2024 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid.
+  * 20/09/2024 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid. -->
 
-<div style="background:#ffffffff; padding:10px; border-radius:5px; border:2px solid black;">
-  <h1 style="margin:0; text-align:left;">Recent publications</h1>
-</div>
+# Recent publications
+<hr style="border: none; border-top: 2px solid #030202ff; margin: 10px 0;">
 
   * L. E. Chatzieleftheriou, **J. Pérez-Valero**, J. Martín-Pérez and P. Serrano, "Optimal Scaling and Offloading for Sustainable Provision of Reliable V2N Services in Dynamic and Static Scenarios," in IEEE Transactions on Network and Service Management. 
 
   * **J. Perez-Valero**, P. Serrano, J. Garcia-Reinoso, A. Banchs and X. Costa-Perez, "Minimum-Cost Design of Auto-Scaling Server Farms Providing Reliability Guarantees" in IEEE Open Journal of the Communications Society. 
 
-<div style="background:#ffffffff; padding:10px; border-radius:5px; border:2px solid black;">
-  <h1 style="margin:0; text-align:left;">Research projects</h1>
-</div>
+# Research projects
+<hr style="border: none; border-top: 2px solid #030202ff; margin: 10px 0;">
 
 Current projects: 
   * [6G-CLOUD:](https://www.6g-cloud.eu/) Service-oriented 6G Network Architecture for Distributed, Intelligent, and Sustainable Cloud-native Communication Systems (SNS JU project funded by European Commission.)
