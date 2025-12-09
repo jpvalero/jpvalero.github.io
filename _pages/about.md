@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -24,10 +24,15 @@ I am a postdoctoral researcher at the University of Murcia (UMU), where I work u
 </p> -->
 
 # Latest news
-<hr style="border: none; border-top: 1px solid #ddd; margin: 10px 0;">
+<hr style="border: none; border-top: 1px solid #010000ff; margin: 10px 0;">
   * 04/12/2024 - I joined Universidad de Murcia as a Postdoc Researcher. 
   * 20/09/2024 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid. 
 
+<div style="background:#000; padding:15px; border-radius:6px;">
+  <h1 style="color:white; margin:0; text-align:left;">Latest new</h1>
+</div>
+  * 04/12/2024 - I joined Universidad de Murcia as a Postdoc Researcher. 
+  * 20/09/2024 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid.
 
 # Recent publications
 
