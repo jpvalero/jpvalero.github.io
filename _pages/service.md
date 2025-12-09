@@ -25,8 +25,8 @@ redirect_from:
   
   * International Workshop on Cloud Technologies and Energy Efficiency in Mobile Communication Networks ([CLEEN2022](https://hexa-x.eu/cleen2022-workshop/)), co-located with PIMRC 2022. 
 
-Reviewing duties: 
-======
+# Reviewing duties: 
+
   * IEEE Transactions on Mobile Computing 2025. 
   
   * Computer Communications 2025. 

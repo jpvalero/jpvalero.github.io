@@ -9,8 +9,8 @@ redirect_from:
 
 I have co-authored peer-reviewed publications in top-tier international journals and conferences in my field (CORE A conferences, and Q1 JCR journals).
 
-Journal Publications (JCR-Indexed)
-======
+# Journal Publications (JCR-Indexed)
+
 
 [6] L. E. Chatzieleftheriou, **J. Perez-Valero**, J. Martín-Pérez and P. Serrano, "Optimal Scaling and Offloading for Sustainable Provision of Reliable V2N Services in Dynamic and Static Scenarios," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2025.3605408 **Q1 in JCR**
 
@@ -25,8 +25,8 @@ Journal Publications (JCR-Indexed)
 [1] **Pérez-Valero, J.**; Caballero Pintado, M.V.; Melgarejo, F.; García-Sánchez, A.-J.; Garcia-Haro, J.; García Córdoba, F.; García Córdoba, J.A.; Pinar, E.; García Alberola, A.; Matilla-García, M.; Curtin, P.; Arora, M.; Ruiz Marín, M. Symbolic Recurrence Analysis of RR Interval to Detect Atrial Fibrillation. J. Clin. Med. 2019, 8, 1840. **Q1 in JCR**
 
 
-Conference and Workshop Publications
-======
+# Conference and Workshop Publications
+
 [7] A. Gil-Martínez, **J. Perez-Valero**, J. A. López-Pastor, J. L. Gómez-Tornero and A. Skarmeta-Gómez, "Ambiguity Resolution of Two Conformal Leaky-Wave Antennas via Deep Learning," 2025 International Conference on Indoor Positioning and Indoor Navigation (IPIN), Tampere, Finland, 2025, pp. 1-7
 
 [6] Giannopoulos, S. Spantideas, P. Trakadas, **J. Perez-Valero**, G. Garcia-Aviles and A. S. Gomez, "AI-Driven Self-Healing in Cloud-Native 6G Networks Through Dynamic Server Scaling," 2025 IEEE 11th International Conference on Network Softwarization (NetSoft), Budapest, Hungary, 2025, pp. 43-48
