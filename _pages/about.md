@@ -24,12 +24,12 @@ I am a postdoctoral researcher at the University of Murcia (UMU), where I work u
 </p> -->
 
 # Latest news
-<hr style="border: none; border-top: 4px solid #030202ff; margin: 10px 0;">
+<hr style="border: none; border-top: 2px solid #030202ff; margin: 10px 0;">
   * 04/12/2024 - I joined Universidad de Murcia as a Postdoc Researcher. 
   * 20/09/2024 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid. 
 
-<div style="background:#ffffffff; padding:10px; border-radius:5px;">
-  <h1 style="color:black; margin:0; text-align:left;">Latest news</h1>
+<div style="background:#ffffffff; padding:10px; border-radius:5px; border:2px solid black;">
+  <h1 style="margin:0; text-align:left;">Latest news</h1>
 </div>
   * 04/12/2024 - I joined Universidad de Murcia as a Postdoc Researcher. 
   * 20/09/2024 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid.
