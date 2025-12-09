@@ -23,16 +23,12 @@ and
 I am a postdoctoral researcher at the University of Murcia (UMU), where I work under the guidance of Prof. [Antonio Skarmeta](https://portalinvestigacion.um.es/investigadores/333163/detalle). My research interests lie at the intersection of communication system analysis, design and network optimization, with a strong emphasis on energy efficiency, reliability, and practical deployment evaluations. Before joining UMU, I completed my Ph.D. in Telematics Engineering at Universidad Carlos III de Madrid (UC3M), where I was advised by Prof. [Pablo Serrano](https://www.it.uc3m.es/pablo/). Throughout my academic journey, I have actively bridged research and real-world impact, visiting and collaborating with institutions such as [IMDEA Networks](https://networks.imdea.org/), [NEC Laboratories Europe](https://neclab.eu/), and [Fraunhofer FHR](https://www.fhr.fraunhofer.de/en.html). Additionally, I have worked on several EU-funded research projects addressing a range of topics including network orchestration, energy-efficient architectures, and intelligent automation for 5G and 6G systems. 
 </p> -->
 
-<!-- Latest news
+Latest news
 ======
   * 04/12/2024 - I joined Universidad de Murcia as a Postdoc Researcher. 
   * 20/09/2024 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid. 
- -->
-<div style="border: 2px solid #333; border-radius: 8px; padding: 15px; margin: 20px 0; background-color: #f9f9f9;">
-## Latest news
-* 04/12/2024 - I joined Universidad de Murcia as a Postdoc Researcher. 
-* 20/09/2024 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid. 
-</div>
+
+
 
 Recent publications
 ======
