@@ -1,11 +1,14 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+<h1 style="margin-bottom: 0.2em;">Teaching</h1>
+<hr style="border: none; border-top: 2px solid #030202ff; margin: 0 0 10px 0;">
 
 I am currently teaching the following courses at the University of Murcia as a postdoctoral researcher: 
 

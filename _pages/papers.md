@@ -9,8 +9,8 @@ redirect_from:
 
 I have co-authored peer-reviewed publications in top-tier international journals and conferences in my field (CORE A conferences, and Q1 JCR journals).
 
-# Journal Publications (JCR-Indexed)
-
+<h1 style="margin-bottom: 0.2em;">Journal Publications (JCR-Indexed)</h1>
+<hr style="border: none; border-top: 2px solid #030202ff; margin: 0 0 10px 0;">
 
 [6] L. E. Chatzieleftheriou, **J. Perez-Valero**, J. Martín-Pérez and P. Serrano, "Optimal Scaling and Offloading for Sustainable Provision of Reliable V2N Services in Dynamic and Static Scenarios," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2025.3605408 **Q1 in JCR**
 
@@ -24,8 +24,8 @@ I have co-authored peer-reviewed publications in top-tier international journals
 
 [1] **Pérez-Valero, J.**; Caballero Pintado, M.V.; Melgarejo, F.; García-Sánchez, A.-J.; Garcia-Haro, J.; García Córdoba, F.; García Córdoba, J.A.; Pinar, E.; García Alberola, A.; Matilla-García, M.; Curtin, P.; Arora, M.; Ruiz Marín, M. Symbolic Recurrence Analysis of RR Interval to Detect Atrial Fibrillation. J. Clin. Med. 2019, 8, 1840. **Q1 in JCR**
 
-
-# Conference and Workshop Publications
+<h1 style="margin-bottom: 0.2em;">Conference and Workshop Publications</h1>
+<hr style="border: none; border-top: 2px solid #030202ff; margin: 0 0 10px 0;">
 
 [7] A. Gil-Martínez, **J. Perez-Valero**, J. A. López-Pastor, J. L. Gómez-Tornero and A. Skarmeta-Gómez, "Ambiguity Resolution of Two Conformal Leaky-Wave Antennas via Deep Learning," 2025 International Conference on Indoor Positioning and Indoor Navigation (IPIN), Tampere, Finland, 2025, pp. 1-7
 
