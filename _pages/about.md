@@ -29,7 +29,6 @@ Latest news
   * 20/09/2024 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid. 
 
 
-
 Recent publications
 ======
   * L. E. Chatzieleftheriou, **J. Pérez-Valero**, J. Martín-Pérez and P. Serrano, "Optimal Scaling and Offloading for Sustainable Provision of Reliable V2N Services in Dynamic and Static Scenarios," in IEEE Transactions on Network and Service Management. 
