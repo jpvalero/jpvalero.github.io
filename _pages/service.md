@@ -7,6 +7,11 @@ redirect_from:
   - /resume
 ---
 
+<h1 style="margin-bottom: 0.2em;">Organizing Committee</h1>
+<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
+
+  * IEEE Global Communications Conference 2021 held in Madrid.
+
 <h1 style="margin-bottom: 0.2em;">Technical Program Committee (TPC)</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 

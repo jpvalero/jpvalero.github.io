@@ -12,11 +12,11 @@ redirect_from:
 
 I am currently teaching the following courses at the University of Murcia as a postdoctoral researcher: 
 
-  * Redes de Datos (3o Grado en Ciencia e Ingeniería de Datos): 2024/2025
+  * Redes de Datos (3o Grado en Ciencia e Ingeniería de Datos): 2024/2025, 2025/2026
 
-  * Computación Móvil (4o Grado en Ingeniería Informática): 2024/2025  
+  * Computación Móvil (4o Grado en Ingeniería Informática): 2024/2025, 2025/2026
 
-
+  * Redes de distribución de contenidos (4o Grado en Ciencia e Ingeniería de Datos): 2025/2026  
 
 During my time at UC3M as PhD student, I served as teaching assistant for the following courses:
 
