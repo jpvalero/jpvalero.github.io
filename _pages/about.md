@@ -43,7 +43,10 @@ I am a postdoctoral researcher at the University of Murcia (UMU), where I work u
 <!-- <h1 style="margin-bottom: 0.2em;">Recent publications</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> -->
 <h1 style="margin-bottom: 0.2em;">
-  Recent publications (click <a href="https://jpvalero.github.io/papers/" target="_blank">here</a> to see my complete list of publications)
+  Recent publications 
+  <span style="font-size: 0.5em;">
+    (click <a href="https://jpvalero.github.io/papers/" target="_blank">here</a> to see my complete list of publications)
+  </span>
 </h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
