@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <h1 style="margin-bottom: 0.2em;">Technical Program Committee (TPC)</h1>
-<hr style="border: none; border-top: 2px solid #030202ff; margin: 0 0 10px 0;">
+<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
   * European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit) 2025. 
 
@@ -29,7 +29,7 @@ redirect_from:
   * International Workshop on Cloud Technologies and Energy Efficiency in Mobile Communication Networks ([CLEEN2022](https://hexa-x.eu/cleen2022-workshop/)), co-located with PIMRC 2022. 
 
 <h1 style="margin-bottom: 0.2em;">Reviewing duties</h1>
-<hr style="border: none; border-top: 2px solid #030202ff; margin: 0 0 10px 0;">
+<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
   * IEEE Transactions on Mobile Computing 2025. 
   

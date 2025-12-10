@@ -29,7 +29,7 @@ I am a postdoctoral researcher at the University of Murcia (UMU), where I work u
 
 <!-- simple horizontal line-->
 <h1 style="margin-bottom: 0.2em;">Latest news</h1>
-<hr style="border: none; border-top: 2px solid #030202ff; margin: 0 0 10px 0;"> 
+<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
   * 04/12/2024 - I joined Universidad de Murcia as a Postdoc Researcher. 
   * 20/09/2024 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid.  
 
@@ -41,14 +41,14 @@ I am a postdoctoral researcher at the University of Murcia (UMU), where I work u
   * 20/09/2024 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid. -->
 
 <h1 style="margin-bottom: 0.2em;">Recent publications</h1>
-<hr style="border: none; border-top: 2px solid #030202ff; margin: 0 0 10px 0;">
+<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
   * L. E. Chatzieleftheriou, **J. Pérez-Valero**, J. Martín-Pérez and P. Serrano, "Optimal Scaling and Offloading for Sustainable Provision of Reliable V2N Services in Dynamic and Static Scenarios," in IEEE Transactions on Network and Service Management. 
 
   * **J. Perez-Valero**, P. Serrano, J. Garcia-Reinoso, A. Banchs and X. Costa-Perez, "Minimum-Cost Design of Auto-Scaling Server Farms Providing Reliability Guarantees" in IEEE Open Journal of the Communications Society. 
 
 <h1 style="margin-bottom: 0.2em;">Research projects</h1>
-<hr style="border: none; border-top: 2px solid #030202ff; margin: 0 0 10px 0;">
+<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
 Current projects: 
   * [6G-CLOUD:](https://www.6g-cloud.eu/) Service-oriented 6G Network Architecture for Distributed, Intelligent, and Sustainable Cloud-native Communication Systems (SNS JU project funded by European Commission.)
