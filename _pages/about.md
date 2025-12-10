@@ -42,7 +42,7 @@ I am a postdoctoral researcher at the University of Murcia (UMU), where I work u
 
 <h1 style="margin-bottom: 0.2em;">Recent publications</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
-Click <a href="https://jpvalero.github.io/papers/" target="_blank">here</a> to see my complete list of publications
+Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete list of publications
 
   * L. E. Chatzieleftheriou, **J. Pérez-Valero**, J. Martín-Pérez and P. Serrano, "Optimal Scaling and Offloading for Sustainable Provision of Reliable V2N Services in Dynamic and Static Scenarios," in IEEE Transactions on Network and Service Management. 
 
