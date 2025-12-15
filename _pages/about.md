@@ -56,7 +56,7 @@ Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete l
 
 
 <!-- ############### AWARDS  ###############-->
-<h1 style="margin-bottom: 0.2em;">Awards</h1>
+<h1 style="margin-bottom: 0.2em;">Awards and Fellowships </h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
 *   **Outstanding Thesis Award in Telematic Engineering, UC3M** ([see link](https://www.uc3m.es/doctorado/media/doctorado/doc/archivo/pdf_premios-extraord.-24-25-resolucion-fallo/resolucion-fallo-premios-extraordinarios-24-25.pdf))  
