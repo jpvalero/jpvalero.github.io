@@ -63,7 +63,7 @@ Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete l
     Awarded by Universidad Carlos III de Madrid (UC3M) to recognize the best doctoral theses of the academic year, based on originality, scientific contribution, and outstanding academic merit.
 
 *   **NEC Student Research Fellowship** ([see link](https://neclab.eu/careers/nec-student-research-fellowship-program#fellow-980))  
-    A merit-based award covering part of my salary, training, and travelling costs (2021-2024).
+    A prestigious, merit-based international fellowship competitively awarded to support PhD research through salary funding, training, and international networking travel. 
 
 *   **Premio GINÉS HUERTAS MARTÍNEZ** ([see link](https://www.upct.es/contenido/universidad/org_gobierno/consejo_social/docs/general/380Resoluci%C3%B3n-Premio-In-Memorian-Gin%C3%A9s-Huertas_2019.pdf))  
     Awarded by Universidad Politécnica de Cartagena in 2019 to recognize a Final Project of the highest quality and excellent academic performance.
