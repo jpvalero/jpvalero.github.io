@@ -32,7 +32,7 @@ I am a postdoctoral researcher at the University of Murcia (UMU), where I work u
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
   * 2025-12-15 - Premio Extraordinario de Doctorado UC3M ([link](https://www.uc3m.es/doctorado/media/doctorado/doc/archivo/pdf_premios-extraord.-24-25-resolucion-fallo/resolucion-fallo-premios-extraordinarios-24-25.pdf))   
   * 2024-12-04 - I joined Universidad de Murcia as a Postdoc Researcher. 
-  * 2024-09-20 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid.  
+  * 2024-09-20 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid.   
 
 <!-- rounded line -->
 <!-- <div style="background:#ffffffff; padding:10px; border-radius:5px; border:2px solid black;">
@@ -54,6 +54,19 @@ Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete l
 <!-- <h1 style="margin-bottom: 0.2em;">Advising</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> -->
 
+
+<!-- ############### AWARDS  ###############-->
+<h1 style="margin-bottom: 0.2em;">Awards</h1>
+<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
+
+*   **Outstanding Thesis Award in Telematic Engineering, UC3M** ([see link](https://www.uc3m.es/doctorado/media/doctorado/doc/archivo/pdf_premios-extraord.-24-25-resolucion-fallo/resolucion-fallo-premios-extraordinarios-24-25.pdf))  
+    Awarded by Universidad Carlos III de Madrid (UC3M) to recognize the best doctoral theses of the academic year, based on originality, scientific contribution, and outstanding academic merit.
+
+*   **NEC Student Research Fellowship** ([see link](https://neclab.eu/careers/nec-student-research-fellowship-program))  
+    A merit-based award covering part of my salary, training, and travelling costs (2021-2024).
+
+*   **Premio GINÉS HUERTAS MARTÍNEZ** ([see link](https://www.upct.es/contenido/universidad/org_gobierno/consejo_social/docs/general/380Resoluci%C3%B3n-Premio-In-Memorian-Gin%C3%A9s-Huertas_2019.pdf))  
+    Awarded by Universidad Politécnica de Cartagena in 2019 to recognize a Final Project of the highest quality and excellent academic performance.
 
 <!-- ############### PROJECTS  ###############-->
 <h1 style="margin-bottom: 0.2em;">Research projects</h1>
