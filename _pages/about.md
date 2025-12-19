@@ -59,7 +59,7 @@ Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete l
 <h1 style="margin-bottom: 0.2em;">Awards and Fellowships </h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
-*   **Outstanding Thesis Award in Telematic Engineering, UC3M** ([see link](https://www.uc3m.es/doctorado/media/doctorado/doc/archivo/pdf_premios-extraord.-24-25-resolucion-fallo/resolucion-fallo-premios-extraordinarios-24-25.pdf))  
+*   **Outstanding Thesis Award in Telematic Engineering, UC3M** ([see link](https://www.uc3m.es/doctorado/media/doctorado/doc/archivo/pdf_premios-extraord.-24-25-resolucion-fallo/resolucion-rector-fallo-premios-extraordinarios-doctorado-23-24-y-24-25_justificante-con-fe-de-erratas.pdf))  
     Awarded by Universidad Carlos III de Madrid (UC3M) to recognize the best doctoral theses of the academic year, based on originality, scientific contribution, and outstanding academic merit.
 
 *   **NEC Student Research Fellowship** ([see link](https://neclab.eu/careers/nec-student-research-fellowship-program#fellow-980))  
