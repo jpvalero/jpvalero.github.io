@@ -30,7 +30,7 @@ I am a postdoctoral researcher at the University of Murcia (UMU), where I work u
 <!-- simple horizontal line-->
 <h1 style="margin-bottom: 0.2em;">Latest news</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
-  * 2025-12-15 - Premio Extraordinario de Doctorado UC3M ([link](https://www.uc3m.es/doctorado/media/doctorado/doc/archivo/pdf_premios-extraord.-24-25-resolucion-fallo/resolucion-fallo-premios-extraordinarios-24-25.pdf))   
+  * 2025-12-15 - Premio Extraordinario de Doctorado UC3M ([link](https://sede.uc3m.es/boel/anexo/11165/))   
   * 2024-12-04 - I joined Universidad de Murcia as a Postdoc Researcher. 
   * 2024-09-20 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid.   
 
@@ -59,7 +59,7 @@ Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete l
 <h1 style="margin-bottom: 0.2em;">Awards and fellowships </h1> 
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
-*   **Outstanding Thesis Award in Telematic Engineering** ([see link](https://www.uc3m.es/doctorado/media/doctorado/doc/archivo/pdf_premios-extraord.-24-25-resolucion-fallo/resolucion-rector-fallo-premios-extraordinarios-doctorado-23-24-y-24-25_justificante-con-fe-de-erratas.pdf))  
+*   **Outstanding Thesis Award in Telematic Engineering** ([see link](https://sede.uc3m.es/boel/anexo/11165/))  
     Awarded by Universidad Carlos III de Madrid (UC3M) to recognize the best doctoral theses of the academic year, based on originality, scientific contribution, and outstanding academic merit.
 
 *   **NEC Student Research Fellowship** ([see link](https://neclab.eu/careers/nec-student-research-fellowship-program#fellow-980))  
