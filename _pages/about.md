@@ -9,8 +9,10 @@ redirect_from:
 <!-- <div style="background:#ffffffff; padding:10px; border-radius:5px; border:2px solid black;">
   <h1 style="margin:0; text-align:left;">About me</h1>
 </div> -->
-<h1 style="margin-bottom: 0.2em;">About me</h1>
-<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
+<div class="block-section pastel-blue">
+  <h1 style="margin: 0;">About me</h1>
+</div>
+
 <p style="text-align: justify;">
 I am a postdoctoral researcher at the University of Murcia (UMU), where I work under the guidance of Prof. 
 <a href="https://portalinvestigacion.um.es/investigadores/333163/detalle" target="_blank">Antonio Skarmeta</a>. 
@@ -28,12 +30,16 @@ I am a postdoctoral researcher at the University of Murcia (UMU), where I work u
 </p> -->
 
 <!-- simple horizontal line-->
-<h1 style="margin-bottom: 0.2em;">Latest news</h1>
-<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
-  * 2026-01-21: New paper accepted for publication in IEEE Communications Standards Magazine.   
-  * 2025-12-15: Premio Extraordinario de Doctorado UC3M ([link](https://sede.uc3m.es/boel/anexo/11165/)).    
-  * 2024-12-04: I joined Universidad de Murcia as a Postdoc Researcher. 
-  * 2024-09-20: I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid.   
+<div class="block-section">
+  <h2 style="margin: 0;">Latest news</h2>
+  <hr>
+  <ul>
+    <li><strong>2026-01-21:</strong> New paper accepted for publication in IEEE Communications Standards Magazine.</li>
+    <li><strong>2025-12-15:</strong> Premio Extraordinario de Doctorado UC3M (<a href="https://sede.uc3m.es/boel/anexo/11165/">link</a>).</li>
+    <li><strong>2024-12-04:</strong> I joined Universidad de Murcia as a Postdoc Researcher.</li>
+    <li><strong>2024-09-20:</strong> I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid.</li>
+  </ul>
+</div>
 
 <!-- rounded line -->
 <!-- <div style="background:#ffffffff; padding:10px; border-radius:5px; border:2px solid black;">
@@ -57,27 +63,48 @@ Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete l
 
 
 <!-- ############### AWARDS  ###############-->
-<h1 style="margin-bottom: 0.2em;">Awards and fellowships </h1> 
-<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
-
-*   **Outstanding Thesis Award in Telematic Engineering** ([see link](https://sede.uc3m.es/boel/anexo/11165/))  
-    Awarded by Universidad Carlos III de Madrid (UC3M) to recognize the best doctoral theses of the academic year, based on originality, scientific contribution, and outstanding academic merit.
-
-*   **NEC Student Research Fellowship** ([see link](https://neclab.eu/careers/nec-student-research-fellowship-program#fellow-980))  
-    A prestigious, merit-based international fellowship competitively awarded to support PhD research through salary funding, training, and international networking travel. 
-
-*   **Premio GINÉS HUERTAS MARTÍNEZ** ([see link](https://www.upct.es/contenido/universidad/org_gobierno/consejo_social/docs/general/380Resoluci%C3%B3n-Premio-In-Memorian-Gin%C3%A9s-Huertas_2019.pdf))  
-    Awarded by Universidad Politécnica de Cartagena in 2019 to recognize a Final Project of the highest quality and excellent academic performance.
+<div class="block-section pastel-green">
+  <h2 style="margin: 0;">Awards and fellowships</h2>
+  <hr>
+  
+  <table>
+    <thead>
+      <tr>
+        <th>Award</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Outstanding Thesis Award</strong></td>
+        <td>Recognized as the best doctoral thesis in Telematic Engineering by UC3M.</td>
+      </tr>
+      <tr>
+        <td><strong>NEC Student Fellowship</strong></td>
+        <td>International merit-based fellowship supporting PhD research and networking.</td>
+      </tr>
+      <tr>
+        <td><strong>Premio GINÉS HUERTAS</strong></td>
+        <td>Awarded for Final Project of highest quality and academic excellence.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <!-- ############### PROJECTS  ###############-->
-<h1 style="margin-bottom: 0.2em;">Research projects</h1>
-<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
+<div class="block-section">
+  <h2 style="margin: 0;">Research projects</h2>
+  <hr>
 
-Ongoing projects: 
-  * [6G-CLOUD:](https://www.6g-cloud.eu/) Service-oriented 6G Network Architecture for Distributed, Intelligent, and Sustainable Cloud-native Communication Systems (SNS JU project funded by European Commission.)
+  <h3 style="color: $success-color;">Ongoing projects</h3>
+  <ul>
+    <li><a href="https://www.6g-cloud.eu/"><strong>6G-CLOUD:</strong></a> Service-oriented 6G Network Architecture (SNS JU funded by EC).</li>
+  </ul>
 
-
-Past projects:
-  * [6G-SORUS:](https://unica6g.it.uc3m.es/en/6g-sorus/) This project aims to create a sustainable extended edge for B5G networks using vRANs, RIS, and UAVs. (UNICA-6G)
-  * [Hexa-X:](https://hexa-x.eu/) A flagship for B5G/6G vision and intelligent fabric of technology enablers connecting human, physical, and digital worlds. (H2020)
-  * [ULTERIOR:](https://researchportal.uc3m.es/display/act538422)  Ultra Reliable Energy efficient NFV system for B5G networks (under NEC Student Research Fellowship).    
+  <h3 style="color: $gray;">Past projects</h3>
+  <ul>
+    <li><a href="https://unica6g.it.uc3m.es/en/6g-sorus/"><strong>6G-SORUS:</strong></a> Sustainable extended edge for B5G networks.</li>
+    <li><a href="https://hexa-x.eu/"><strong>Hexa-X:</strong></a> Flagship for B5G/6G vision and intelligent fabric.</li>
+    <li><a href="https://researchportal.uc3m.es/display/act538422"><strong>ULTERIOR:</strong></a> Ultra Reliable Energy efficient NFV system.</li>
+  </ul>
+</div>

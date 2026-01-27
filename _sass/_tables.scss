@@ -3,36 +3,50 @@
    ========================================================================== */
 
 table {
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
   width: 100%;
   font-family: $global-font-family;
   font-size: $type-size-6;
-  border-collapse: collapse;
-  border: 1px solid $light-gray;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid $pastel-blue;
+  border-radius: $border-radius;
+  overflow: hidden;
+  box-shadow: $box-shadow;
 
-  & + table {
-    margin-top: 1em;
+  &+table {
+    margin-top: 1.5em;
   }
 }
 
 thead {
-  background-color: $lighter-gray;
-  border-bottom: 1px solid $light-gray;
+  background-color: $pastel-blue;
+  color: darken($primary-color, 20%);
 }
 
 th {
-  padding: 0.5em;
+  padding: 1em;
   font-weight: bold;
   text-align: left;
-  border-right: 1px solid $light-gray;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 td {
-  padding: 0.5em;
-  border-bottom: 1px solid $light-gray;
-  border-right: 1px solid $light-gray;
+  padding: 1em;
+  background-color: #fff;
+  border-bottom: 1px solid $pastel-gray;
+
+  &:last-child {
+    border-right: none;
+  }
 }
 
-tr, td, th {
+tr:last-child td {
+  border-bottom: none;
+}
+
+tr,
+td,
+th {
   vertical-align: middle;
 }
