@@ -25,7 +25,7 @@ author:
   name             : "Jesús Pérez-Valero"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
-  location         : "Edificio Pleiades"
+  # location         : "Edificio Pleiades"
   employer         : "Universidad de Murcia"
   uri              : https://portalinvestigacion.um.es/investigadores/2128968/detalle
   email            : "jesus.perezvalero@um.es" 
