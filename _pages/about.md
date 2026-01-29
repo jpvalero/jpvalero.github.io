@@ -9,7 +9,7 @@ redirect_from:
 <!-- <div style="background:#ffffffff; padding:10px; border-radius:5px; border:2px solid black;">
   <h1 style="margin:0; text-align:left;">About me</h1>
 </div> -->
-<h1 style="margin-bottom: 0.2em;">About me</h1>
+<h1 style="margin-bottom: 0.2em;">Short bio</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 <p style="text-align: justify;">
 I am a postdoctoral researcher at the University of Murcia (UMU), where I work under the guidance of Prof. 

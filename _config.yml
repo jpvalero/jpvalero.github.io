@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Jesús Pérez-Valero"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc Researcher at Universidad de Murcia"
+  bio              : "Postdoctoral Researcher"
   location         : "Edificio Pleiades"
-  employer         : #"Red Brick University"
-  uri              : # URL
+  employer         : "Universidad de Murcia"
+  uri              : https://portalinvestigacion.um.es/investigadores/2128968/detalle
   email            : "jesus.perezvalero@um.es" 
 
   # Academic websites
