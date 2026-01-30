@@ -96,6 +96,7 @@ Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete l
 
 Ongoing projects: 
   * [6G-CLOUD:](https://www.6g-cloud.eu/) Service-oriented 6G Network Architecture for Distributed, Intelligent, and Sustainable Cloud-native Communication Systems (SNS JU project funded by European Commission.)
+  * [OpenSlice:](https://osl.etsi.org/) ETSI Software Development Group OpenSlice (SDG OSL) is developing an open-source, intelligent Operations Support System (OSS) to deliver Network as a Service (NaaS), based on TM Forum's Open Digital Architecture (ODA). 
 
 
 Past projects:
