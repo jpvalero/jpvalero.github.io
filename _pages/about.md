@@ -24,10 +24,12 @@ and
 I am a postdoctoral researcher at the University of Murcia (UMU), where I work under the guidance of Prof.
 <a href="https://portalinvestigacion.um.es/investigadores/333163/detalle" target="_blank">Antonio Skarmeta</a>.
 My research interests lie at the intersection of communication system analysis, design, and network optimization, with a strong emphasis on energy efficiency, reliability, and practical deployment evaluations.
-
+</p>
+<p style="text-align: justify;">
 Before joining UMU, I completed my Ph.D. in Telematics Engineering at Universidad Carlos III de Madrid (UC3M), where I was advised by Prof.
 <a href="https://www.it.uc3m.es/pablo/" target="_blank">Pablo Serrano</a>.
-
+</p>
+<p style="text-align: justify;">
 Throughout my academic journey, I have actively bridged research and real-world impact by visiting and collaborating with institutions such as
 <a href="https://networks.imdea.org/" target="_blank">IMDEA Networks</a>,
 <a href="https://neclab.eu/" target="_blank">NEC Laboratories Europe</a>,
