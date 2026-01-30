@@ -45,7 +45,7 @@ I am a postdoctoral researcher at the University of Murcia (UMU), where I work u
 <!-- simple horizontal line-->
 <h1 style="margin-bottom: 0.2em;">Latest news</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
-  * 2026-01-21: New paper accepted for publication in IEEE Communications Standards Magazine.   
+  * 2026-01-21: Our paper "AI-Powered Orchestration-as-a-Service for 6G Networks: The 6G-CLOUD View" has been accepted for publication in IEEE Communications Standards Magazine.   
   * 2025-12-15: Premio Extraordinario de Doctorado UC3M ([link](https://sede.uc3m.es/boel/anexo/11165/)).    
   * 2024-12-04: I joined Universidad de Murcia as a Postdoc Researcher. 
   * 2024-09-20: I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid.   
