@@ -45,11 +45,12 @@ I am a postdoctoral researcher at the University of Murcia (UMU), where I work u
 <!-- simple horizontal line-->
 <h1 style="margin-bottom: 0.2em;">Latest news</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
+<p style="text-align: justify;">
   * 2026-01-21: Our paper "AI-Powered Orchestration-as-a-Service for 6G Networks: The 6G-CLOUD View" has been accepted for publication in IEEE Communications Standards Magazine.   
   * 2025-12-15: Premio Extraordinario de Doctorado UC3M ([link](https://sede.uc3m.es/boel/anexo/11165/)).    
   * 2024-12-04: I joined Universidad de Murcia as a Postdoc Researcher. 
   * 2024-09-20: I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid.   
-
+</p>
 <!-- rounded line -->
 <!-- <div style="background:#ffffffff; padding:10px; border-radius:5px; border:2px solid black;">
   <h1 style="margin:0; text-align:left;">Latest news</h1>
@@ -74,7 +75,7 @@ Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete l
 <!-- ############### AWARDS  ###############-->
 <h1 style="margin-bottom: 0.2em;">Awards and fellowships </h1> 
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
-
+<p style="text-align: justify;">
 *   **Outstanding Thesis Award in Telematic Engineering** ([see link](https://sede.uc3m.es/boel/anexo/11165/))  
     Awarded by Universidad Carlos III de Madrid (UC3M) to recognize the best doctoral theses of the academic year, based on originality, scientific contribution, and outstanding academic merit.
 
@@ -84,15 +85,15 @@ Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete l
 *   **NEC Student Research Fellowship** ([see link](https://neclab.eu/careers/nec-student-research-fellowship-program#fellow-980))  
     A prestigious, merit-based international fellowship competitively awarded to support PhD research through salary funding, training, and international networking travel. 
 
-
-
 *   **Premio GINÉS HUERTAS MARTÍNEZ** ([see link](https://www.upct.es/contenido/universidad/org_gobierno/consejo_social/docs/general/380Resoluci%C3%B3n-Premio-In-Memorian-Gin%C3%A9s-Huertas_2019.pdf))  
     Awarded by Universidad Politécnica de Cartagena in 2019 to recognize a Final Project of the highest quality and excellent academic performance.
+</p>
+
 
 <!-- ############### PROJECTS  ###############-->
 <h1 style="margin-bottom: 0.2em;">Research projects</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
-
+<p style="text-align: justify;">
 Ongoing projects: 
   * [6G-CLOUD:](https://www.6g-cloud.eu/) Service-oriented 6G Network Architecture for Distributed, Intelligent, and Sustainable Cloud-native Communication Systems (SNS JU project funded by European Commission.)
 
@@ -101,3 +102,4 @@ Past projects:
   * [6G-SORUS:](https://unica6g.it.uc3m.es/en/6g-sorus/) This project aims to create a sustainable extended edge for B5G networks using vRANs, RIS, and UAVs. (UNICA-6G)
   * [Hexa-X:](https://hexa-x.eu/) A flagship for B5G/6G vision and intelligent fabric of technology enablers connecting human, physical, and digital worlds. (H2020)
   * [ULTERIOR:](https://researchportal.uc3m.es/display/act538422)  Ultra Reliable Energy efficient NFV system for B5G networks (under NEC Student Research Fellowship).    
+</p>
