@@ -26,7 +26,7 @@ I am a postdoctoral researcher at the University of Murcia (UMU), where I work u
 My research interests lie at the intersection of communication system analysis, design, and network optimization, with a strong emphasis on energy efficiency, reliability, and practical deployment evaluations.
 </p>
 <p style="text-align: justify;">
-Before joining UMU, I completed my Ph.D. in Telematics Engineering at Universidad Carlos III de Madrid (UC3M), where I was advised by Prof.
+Before joining UMU, I completed my Ph.D. in Telematics Engineering at Universidad Carlos III de Madrid (UC3M) with outstanding thesis award, under the supervision of Prof.
 <a href="https://www.it.uc3m.es/pablo/" target="_blank">Pablo Serrano</a>.
 </p>
 <p style="text-align: justify;">
