@@ -12,6 +12,8 @@ I have co-authored peer-reviewed publications in top-tier international journals
 <h1 style="margin-bottom: 0.2em;">Journal Publications (JCR-Indexed)</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
+[7] **J. Perez-Valero**, G. Garcia-Aviles, A. Skarmeta and T. Chen, "[AI-Powered Orchestration-as-a-Service for 6G Networks: The 6G-CLOUD View," in IEEE Communications Standards Magazine](/PDFs/papers/journals/valero2026OaaS.pdf), doi: 10.1109/MCOMSTD.2026.3656636 **Q1 in JCR**
+
 [6] L. E. Chatzieleftheriou, **J. Perez-Valero**, J. Martín-Pérez and P. Serrano, "[Optimal Scaling and Offloading for Sustainable Provision of Reliable V2N Services in Dynamic and Static Scenarios](/PDFs/papers/journals/chatzieleftheriou2025optimal.pdf)," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2025.3605408 **Q1 in JCR**
 
 [5] **J. Perez-Valero**, P. Serrano, J. Garcia-Reinoso, A. Banchs and X. Costa-Perez, "[Minimum-Cost Design of Auto-Scaling Server Farms Providing Reliability Guarantees](/PDFs/papers/journals/perez2025optimal.pdf)," in IEEE Open Journal of the Communications Society, doi: 10.1109/OJCOMS.2025.3586088 **Q1 in JCR** 
