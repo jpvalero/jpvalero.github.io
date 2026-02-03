@@ -76,18 +76,16 @@ Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete l
 <h1 style="margin-bottom: 0.2em;">Awards and fellowships </h1> 
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
-*   **Outstanding Thesis Award in Telematic Engineering** ([see link](https://sede.uc3m.es/boel/anexo/11165/))  
+*   **Outstanding Thesis Award in Telematic Engineering** (see [link](https://sede.uc3m.es/boel/anexo/11165/))  
     Awarded by Universidad Carlos III de Madrid (UC3M) to recognize the best doctoral theses of the academic year, based on originality, scientific contribution, and outstanding academic merit.
 
-*   **Research Excellence Award NEC** ([see link](/PDFs/premios/NEC_Research_Excellence_Award_2021.pdf))  
+*   **Research Excellence Award NEC** (see [link](/PDFs/premios/NEC_Research_Excellence_Award_2021.pdf))  
     In recognition of PhD research excellence in the NEC Student Fellowship Program. 
 
-*   **NEC Student Research Fellowship** ([see link](https://neclab.eu/careers/nec-student-research-fellowship-program#fellow-980))  
+*   **NEC Student Research Fellowship** (see [link](https://neclab.eu/careers/nec-student-research-fellowship-program#fellow-980))  
     A prestigious, merit-based international fellowship competitively awarded to support PhD research through salary funding, training, and international networking travel. 
 
-
-
-*   **Premio GINÉS HUERTAS MARTÍNEZ** ([see link](https://www.upct.es/contenido/universidad/org_gobierno/consejo_social/docs/general/380Resoluci%C3%B3n-Premio-In-Memorian-Gin%C3%A9s-Huertas_2019.pdf))  
+*   **Premio GINÉS HUERTAS MARTÍNEZ** (see [link](https://www.upct.es/contenido/universidad/org_gobierno/consejo_social/docs/general/380Resoluci%C3%B3n-Premio-In-Memorian-Gin%C3%A9s-Huertas_2019.pdf))  
     Awarded by Universidad Politécnica de Cartagena in 2019 to recognize a Final Project of the highest quality and excellent academic performance.
 
 <!-- ############### PROJECTS  ###############-->
