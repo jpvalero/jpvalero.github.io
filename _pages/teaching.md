@@ -16,7 +16,7 @@ I am currently teaching the following courses at the University of Murcia as a p
 
   * Computación Móvil (4o Grado en Ingeniería Informática): 2024/2025, 2025/2026
 
-  * Redes de distribución de contenidos (4o Grado en Ciencia e Ingeniería de Datos): 2025/2026  
+  * Redes de distribución de contenidos (4o Grado en Ciencia e Ingeniería de Datos): 2025/2026 (Coord.)
 
 During my time at UC3M as PhD student, I served as teaching assistant for the following courses:
 
