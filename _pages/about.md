@@ -35,7 +35,7 @@ Throughout my academic journey, I have actively bridged research and real-world 
 <a href="https://neclab.eu/" target="_blank">NEC Laboratories Europe</a>,
 and
 <a href="https://www.fhr.fraunhofer.de/en.html" target="_blank">Fraunhofer FHR</a>.
-Additionally, I have worked on several EU-funded research projects addressing topics including network orchestration, energy-efficient architectures, and intelligent automation for 5G and 6G systems.
+Additionally, I have worked on several EU-funded research projects (such as Hexa-X and 6G-CLOUD) addressing topics including network orchestration, energy-efficient architectures, and intelligent automation for 5G and 6G systems.
 </p>
 
 <!-- <p Markdown>
