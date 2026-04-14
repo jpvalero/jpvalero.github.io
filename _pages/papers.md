@@ -37,7 +37,7 @@ I have co-authored peer-reviewed publications in top-tier international journals
 
 [4] Livia Elena Chatzieleftheriou, **Jesus Perez-Valero**, Jorge Martín-Pérez, and Pablo Serrano. 2024. [Sustainable Provision of URLLC Services for V2N: Analysis and Optimal Configuration](/PDFs/papers/conferences/chatzieleftheriou2024sustainable.pdf). In International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’24), October 14–17, 2024, Athens, Greece. ACM, New York, NY, USA. **CORE A, top conference in computer networks** 
 
-[3] Habibi, M. A., Sánchez, A. G., Pavón, I. L., Han, B., Serrano, P., **Pérez-Valero, J.**, ... & Schotten, H. D. (2023). [The Architectural Design of Service Management and Orchestration in 6G Communication Systems](/PDFs/papers/conferences/habibi2023architectural.pdf).
+[3] Habibi, M. A., Sánchez, A. G., Pavón, I. L., Han, B., Serrano, P., **Pérez-Valero, J.**, ... & Schotten, H. D. (2023). [The Architectural Design of Service Management and Orchestration in 6G Communication Systems](/PDFs/papers/conferences/habibi2023architectural.pdf). IEEE Conference on Computer Communications Workshops (INFOCOM 2023 WKSHPS).
 
 [2] **J. Pérez-Valero** et al., "[AI-driven Orchestration for 6G Networking: the Hexa-X vision](/PDFs/papers/conferences/perez2022ai.pdf)," 2022 IEEE Globecom Workshops (GC Wkshps), Rio de Janeiro, Brazil, 2022, pp. 1335-1340, doi: 10.1109/GCWkshps56602.2022.10008726.
 
