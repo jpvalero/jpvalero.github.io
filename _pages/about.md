@@ -9,7 +9,7 @@ redirect_from:
 <!-- <div style="background:#ffffffff; padding:10px; border-radius:5px; border:2px solid black;">
   <h1 style="margin:0; text-align:left;">About me</h1>
 </div> -->
-<h1 style="margin-bottom: 0.2em;">Short Bio</h1>
+<h1 style="margin-bottom: 0.2em;">Short bio</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 <p style="text-align: justify;">
 <!-- I am a postdoctoral researcher at the University of Murcia (UMU), where I work under the guidance of Prof. 
@@ -43,7 +43,7 @@ I am a postdoctoral researcher at the University of Murcia (UMU), where I work u
 </p> -->
 
 <!-- simple horizontal line-->
-<h1 style="margin-bottom: 0.2em;">Latest News</h1>
+<h1 style="margin-bottom: 0.2em;">Latest news</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
   * 2026-01-21: Our paper "AI-Powered Orchestration-as-a-Service for 6G Networks: The 6G-CLOUD View" has been accepted for publication in IEEE Communications Standards Magazine.   
@@ -73,7 +73,7 @@ Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete l
 
 
 <!-- ############### VISITING POSITIONS  ###############-->
-<h1 style="margin-bottom: 0.2em;"> Visiting Positions </h1> 
+<h1 style="margin-bottom: 0.2em;"> Visiting positions </h1> 
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
 *   **Sorbonne Université**, Génie Électrique et Électronique de Paris (GeePs) under a UMU researcher mobility grant (May-June 2026, 4 weeks).   
@@ -84,7 +84,7 @@ Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete l
 
 
 <!-- ############### AWARDS  ###############-->
-<h1 style="margin-bottom: 0.2em;">Awards and Fellowships </h1> 
+<h1 style="margin-bottom: 0.2em;">Awards and fellowships </h1> 
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
 *   **Outstanding Thesis Award in Telematic Engineering** (see [link](https://sede.uc3m.es/boel/anexo/11165/))  
@@ -100,7 +100,7 @@ Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete l
     Awarded by Universidad Politécnica de Cartagena in 2019 to recognize a Final Project of the highest quality and excellent academic performance.
 
 <!-- ############### PROJECTS  ###############-->
-<h1 style="margin-bottom: 0.2em;">Research Projects</h1>
+<h1 style="margin-bottom: 0.2em;">Research projects</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
 Ongoing projects: 
