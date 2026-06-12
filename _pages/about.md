@@ -67,16 +67,12 @@ Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete l
   * **J. Perez-Valero**, P. Serrano, J. Garcia-Reinoso, A. Banchs and X. Costa-Perez, "Minimum-Cost Design of Auto-Scaling Server Farms Providing Reliability Guarantees" in IEEE Open Journal of the Communications Society.  -->
 
 
-<!-- ############### ADVISING  ###############-->
-<!-- <h1 style="margin-bottom: 0.2em;">Advising</h1>
-<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> -->
-
 
 <!-- ############### VISITING POSITIONS  ###############-->
 <h1 style="margin-bottom: 0.2em;"> Visiting positions </h1> 
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
-*   **Sorbonne Université**, Génie Électrique et Électronique de Paris (GeePs) under a UMU researcher mobility grant (May-June 2026, 4 weeks).   
+*   **Sorbonne Université**, Laboratoire Génie Électrique et Électronique de Paris (GeePs) under a UMU researcher mobility grant (May-June 2026, 4 weeks).   
 
 *   **Fraunhofer Institute for High Frequency Physics and Radar Techniques FHR**, Department of Antenna Technology and Electromagnetics Modelling (June-September 2020, 12 weeks). 
 
