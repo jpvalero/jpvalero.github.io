@@ -38,37 +38,13 @@ and
 Additionally, I have worked on several EU-funded research projects (such as Hexa-X and 6G-CLOUD) addressing topics including network orchestration, energy-efficient architectures, and intelligent automation for 5G and 6G systems.
 </p>
 
-<!-- <p Markdown>
-I am a postdoctoral researcher at the University of Murcia (UMU), where I work under the guidance of Prof. [Antonio Skarmeta](https://portalinvestigacion.um.es/investigadores/333163/detalle). My research interests lie at the intersection of communication system analysis, design and network optimization, with a strong emphasis on energy efficiency, reliability, and practical deployment evaluations. Before joining UMU, I completed my Ph.D. in Telematics Engineering at Universidad Carlos III de Madrid (UC3M), where I was advised by Prof. [Pablo Serrano](https://www.it.uc3m.es/pablo/). Throughout my academic journey, I have actively bridged research and real-world impact, visiting and collaborating with institutions such as [IMDEA Networks](https://networks.imdea.org/), [NEC Laboratories Europe](https://neclab.eu/), and [Fraunhofer FHR](https://www.fhr.fraunhofer.de/en.html). Additionally, I have worked on several EU-funded research projects addressing a range of topics including network orchestration, energy-efficient architectures, and intelligent automation for 5G and 6G systems. 
-</p> -->
-
 <!-- simple horizontal line-->
 <h1 style="margin-bottom: 0.2em;">Latest News</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
-  * 2026-06-12: Juan de la Cierva Awardee ([link](https://www.aei.gob.es/sites/default/files/convocatory_info/2026-06/PRP_SELECCIONADOS_RESERVAS_JDC%202025_firmada.pdf)).  
-  * 2026-01-21: Our paper "AI-Powered Orchestration-as-a-Service for 6G Networks: The 6G-CLOUD View" has been accepted for publication in IEEE Communications Standards Magazine.   
-  * 2025-12-15: Premio Extraordinario de Doctorado UC3M ([link](https://sede.uc3m.es/boel/anexo/11165/)).    
-
-  <!-- * 2024-12-04: I joined Universidad de Murcia as a Postdoc Researcher. 
-  * 2024-09-20: I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid.    -->
-
-<!-- rounded line -->
-<!-- <div style="background:#ffffffff; padding:10px; border-radius:5px; border:2px solid black;">
-  <h1 style="margin:0; text-align:left;">Latest news</h1>
-</div>
-  * 04/12/2024 - I joined Universidad de Murcia as a Postdoc Researcher. 
-  * 20/09/2024 - I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid. -->
-
-<!-- <h1 style="margin-bottom: 0.2em;">Recent publications</h1>
-<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
-Click <a href="https://jpvalero.github.io/papers/">here</a> to see my complete list of publications
-
-  * L. E. Chatzieleftheriou, **J. Pérez-Valero**, J. Martín-Pérez and P. Serrano, "Optimal Scaling and Offloading for Sustainable Provision of Reliable V2N Services in Dynamic and Static Scenarios," in IEEE Transactions on Network and Service Management. 
-
-  * **J. Perez-Valero**, P. Serrano, J. Garcia-Reinoso, A. Banchs and X. Costa-Perez, "Minimum-Cost Design of Auto-Scaling Server Farms Providing Reliability Guarantees" in IEEE Open Journal of the Communications Society.  -->
-
-
+  * **2026-06-12**: Juan de la Cierva Awardee ([link](https://www.aei.gob.es/sites/default/files/convocatory_info/2026-06/PRP_SELECCIONADOS_RESERVAS_JDC%202025_firmada.pdf)).  
+  * **2026-01-21**: Our paper "AI-Powered Orchestration-as-a-Service for 6G Networks: The 6G-CLOUD View" has been accepted for publication in IEEE Communications Standards Magazine.   
+  * **2025-12-15**: Premio Extraordinario de Doctorado UC3M ([link](https://sede.uc3m.es/boel/anexo/11165/)).    
 
 <!-- ############### VISITING POSITIONS  ###############-->
 <h1 style="margin-bottom: 0.2em;"> Visiting Positions </h1> 
