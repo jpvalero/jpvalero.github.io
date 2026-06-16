@@ -28,8 +28,8 @@ Throughout my academic journey, I have actively bridged research and real-world 
 Additionally, I have worked on different EU-funded research projects (such as Hexa-X and 6G-CLOUD) addressing topics including network orchestration, energy-efficient architectures, and intelligent automation for 5G and 6G systems.
 </p>
 
-<!-- ############### LATEST NEWS  ###############-->
-<h1 style="margin-bottom: 0.2em;">Latest News</h1>
+<!-- ############### NEWS  ###############-->
+<h1 style="margin-bottom: 0.2em;">News</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
   * **2026-06-12**: Juan de la Cierva Awardee ([link](https://www.aei.gob.es/sites/default/files/convocatory_info/2026-06/PRP_SELECCIONADOS_RESERVAS_JDC%202025_firmada.pdf)).  
