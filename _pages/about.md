@@ -62,7 +62,7 @@ Additionally, I have worked on several EU-funded research projects (such as Hexa
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
 *   **Outstanding Thesis Award in Telematic Engineering** (see [link](https://sede.uc3m.es/boel/anexo/11165/))  
-    Awarded by Universidad Carlos III de Madrid (UC3M) to recognize the best doctoral theses of the academic year, based on originality, scientific contribution, and outstanding academic merit.
+    Awarded by Universidad Carlos III de Madrid (UC3M) to recognize the best doctoral theses of the academic year. 
 
 *   **Research Excellence Award NEC** (see [link](/PDFs/premios/NEC_Research_Excellence_Award_2021.pdf))  
     In recognition of PhD research excellence in the NEC Student Fellowship Program. 
