@@ -23,9 +23,9 @@ Before joining UMU, I completed my Ph.D. in Telematics Engineering at Universida
 Throughout my academic journey, I have actively bridged research and real-world impact by visiting and collaborating with institutions such as
 <a href="https://networks.imdea.org/" target="_blank">IMDEA Networks</a>,
 <a href="https://neclab.eu/" target="_blank">NEC Laboratories Europe</a>,
-and
-<a href="https://www.fhr.fraunhofer.de/en.html" target="_blank">Fraunhofer FHR</a>.
-Additionally, I have worked on several EU-funded research projects (such as Hexa-X and 6G-CLOUD) addressing topics including network orchestration, energy-efficient architectures, and intelligent automation for 5G and 6G systems.
+<a href="https://www.fhr.fraunhofer.de/en.html" target="_blank">Fraunhofer FHR</a>, and
+<a href="https://www.sorbonne-universite.fr/" target="_blank">Sorbonne Université</a>. 
+Additionally, I have worked on different EU-funded research projects (such as Hexa-X and 6G-CLOUD) addressing topics including network orchestration, energy-efficient architectures, and intelligent automation for 5G and 6G systems.
 </p>
 
 <!-- ############### LATEST NEWS  ###############-->
@@ -47,7 +47,6 @@ Additionally, I have worked on several EU-funded research projects (such as Hexa
 *   **Fraunhofer Institute for High Frequency Physics and Radar Techniques FHR**, Department of Antenna Technology and Electromagnetics Modelling (June-September 2020, 12 weeks). 
 
 *   **Karelia University of Applied Sciences** under ERASMUS+ Programme (February 2017, 1 week). 
-
 
 <!-- ############### AWARDS  ###############-->
 <h1 style="margin-bottom: 0.2em;">Awards and Fellowships </h1> 
