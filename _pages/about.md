@@ -6,21 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- <div style="background:#ffffffff; padding:10px; border-radius:5px; border:2px solid black;">
-  <h1 style="margin:0; text-align:left;">About me</h1>
-</div> -->
+<!-- ############### SHORT BIO  ###############-->
 <h1 style="margin-bottom: 0.2em;">Short Bio</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 <p style="text-align: justify;">
-<!-- I am a postdoctoral researcher at the University of Murcia (UMU), where I work under the guidance of Prof. 
-<a href="https://portalinvestigacion.um.es/investigadores/333163/detalle" target="_blank">Antonio Skarmeta</a>. 
-My research interests lie at the intersection of communication system analysis, design and network optimization, with a strong emphasis on energy efficiency, reliability, and practical deployment evaluations. Before joining UMU, I completed my Ph.D. in Telematics Engineering at Universidad Carlos III de Madrid (UC3M), where I was advised by Prof. 
-<a href="https://www.it.uc3m.es/pablo/" target="_blank">Pablo Serrano</a>. 
-Throughout my academic journey, I have actively bridged research and real-world impact, visiting and collaborating with institutions such as 
-<a href="https://networks.imdea.org/" target="_blank">IMDEA Networks</a>, 
-<a href="https://neclab.eu/" target="_blank">NEC Laboratories Europe</a>, 
-and 
-<a href="https://www.fhr.fraunhofer.de/en.html" target="_blank">Fraunhofer FHR</a>. Additionally, I have worked on several EU-funded research projects addressing a range of topics including network orchestration, energy-efficient architectures, and intelligent automation for 5G and 6G systems. -->
+
 I am a postdoctoral researcher at the University of Murcia (UMU), where I work under the guidance of Prof.
 <a href="https://portalinvestigacion.um.es/investigadores/333163/detalle" target="_blank">Antonio Skarmeta</a>.
 My research interests lie at the intersection of communication system analysis, design, and network optimization, with a strong emphasis on energy efficiency, reliability, and practical deployment evaluations.
@@ -38,13 +28,12 @@ and
 Additionally, I have worked on several EU-funded research projects (such as Hexa-X and 6G-CLOUD) addressing topics including network orchestration, energy-efficient architectures, and intelligent automation for 5G and 6G systems.
 </p>
 
-<!-- simple horizontal line-->
+<!-- ############### LATEST NEWS  ###############-->
 <h1 style="margin-bottom: 0.2em;">Latest News</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
   * **2026-06-12**: Juan de la Cierva Awardee ([link](https://www.aei.gob.es/sites/default/files/convocatory_info/2026-06/PRP_SELECCIONADOS_RESERVAS_JDC%202025_firmada.pdf)).  
   * **2026-01-21**: Our paper "AI-Powered Orchestration-as-a-Service for 6G Networks: The 6G-CLOUD View" has been accepted for publication in IEEE Communications Standards Magazine.   
-  * **2025-12-15**: Premio Extraordinario de Doctorado UC3M ([link](https://sede.uc3m.es/boel/anexo/11165/)).    
   * **2025-12-15**: Premio Extraordinario de Doctorado UC3M ([link](https://sede.uc3m.es/boel/anexo/11165/)).    
   * **2024-12-04**: I joined Universidad de Murcia as a Postdoc Researcher. 
   * **2024-09-20**: I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid.   
