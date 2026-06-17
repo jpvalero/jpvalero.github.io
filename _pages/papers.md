@@ -9,7 +9,8 @@ redirect_from:
 
 I have co-authored peer-reviewed publications in top-tier international journals and conferences in my field (CORE A conferences, and Q1 JCR journals).
 
-<h1 style="margin-bottom: 0.2em;">Journal Publications (JCR-Indexed)</h1>
+<!-- ############### JOURNALS  ###############-->
+<h1 style="margin-bottom: 0.2em;">Journals</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
 [7] **J. Perez-Valero**, G. Garcia-Aviles, A. Skarmeta and T. Chen, "[AI-Powered Orchestration-as-a-Service for 6G Networks: The 6G-CLOUD View](/PDFs/papers/journals/valero2026OaaS.pdf)," in IEEE Communications Standards Magazine, doi: 10.1109/MCOMSTD.2026.3656636 **Q1 in JCR**
@@ -26,7 +27,10 @@ I have co-authored peer-reviewed publications in top-tier international journals
 
 [1] **Pérez-Valero, J.**; Caballero Pintado, M.V.; Melgarejo, F.; García-Sánchez, A.-J.; Garcia-Haro, J.; García Córdoba, F.; García Córdoba, J.A.; Pinar, E.; García Alberola, A.; Matilla-García, M.; Curtin, P.; Arora, M.; Ruiz Marín, M. [Symbolic Recurrence Analysis of RR Interval to Detect Atrial Fibrillation](/PDFs/papers/journals/perez2019symbolic.pdf). J. Clin. Med. 2019, 8, 1840. **Q1 in JCR**
 
-<h1 style="margin-bottom: 0.2em;">Conference and Workshop Publications</h1>
+
+
+<!-- ############### CONFERENCES AND WORKSHOPS  ###############-->
+<h1 style="margin-bottom: 0.2em;">Conferences and Workshops</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
 [7] A. Gil-Martínez, **J. Perez-Valero**, J. A. López-Pastor, J. L. Gómez-Tornero and A. Skarmeta-Gómez, "[Ambiguity Resolution of Two Conformal Leaky-Wave Antennas via Deep Learning](/PDFs/papers/conferences/gil2025ambiguity.pdf)," 2025 International Conference on Indoor Positioning and Indoor Navigation (IPIN), Tampere, Finland, 2025, pp. 1-7
