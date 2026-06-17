@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- ############### SHORT BIO  ###############-->
+<!-- ############### SHORT BIO  ############### -->
 <h1 style="margin-bottom: 0.2em;">Short Bio</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 <p style="text-align: justify;">
@@ -28,7 +28,7 @@ Throughout my academic journey, I have actively bridged research and real-world 
 Additionally, I have worked on different EU-funded research projects (such as Hexa-X and 6G-CLOUD) addressing topics including network orchestration, energy-efficient architectures, and intelligent automation for 5G and 6G systems.
 </p>
 
-<!-- ############### NEWS  ###############-->
+<!-- ############### NEWS  ############### -->
 <h1 style="margin-bottom: 0.2em;">News</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
@@ -38,7 +38,7 @@ Additionally, I have worked on different EU-funded research projects (such as He
   * **2024-12-04**: I joined Universidad de Murcia as a Postdoc Researcher. 
   * **2024-09-20**: I defended my PhD thesis with cum laude at Universidad Carlos III de Madrid.   
 
-<!-- ############### VISITING POSITIONS  ###############-->
+<!-- ############### VISITING POSITIONS  ############### -->
 <h1 style="margin-bottom: 0.2em;"> Visiting Positions </h1> 
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
@@ -48,7 +48,7 @@ Additionally, I have worked on different EU-funded research projects (such as He
 
 *   **Karelia University of Applied Sciences** under ERASMUS+ Programme (February 2017, 1 week). 
 
-<!-- ############### AWARDS  ###############-->
+<!-- ############### AWARDS  ############### -->
 <h1 style="margin-bottom: 0.2em;">Awards and Fellowships </h1> 
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
@@ -64,7 +64,7 @@ Additionally, I have worked on different EU-funded research projects (such as He
 *   **Premio GINÉS HUERTAS MARTÍNEZ** (see [link](https://www.upct.es/contenido/universidad/org_gobierno/consejo_social/docs/general/380Resoluci%C3%B3n-Premio-In-Memorian-Gin%C3%A9s-Huertas_2019.pdf))  
     Awarded by Universidad Politécnica de Cartagena in 2019 to recognize a Final Project of the highest quality and excellent academic performance.
 
-<!-- ############### PROJECTS  ###############-->
+<!-- ############### PROJECTS  ############### -->
 <h1 style="margin-bottom: 0.2em;">Research Projects</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
