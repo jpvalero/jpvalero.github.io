@@ -32,6 +32,7 @@ Additionally, I have worked on different EU-funded research projects (such as He
 <h1 style="margin-bottom: 0.2em;">News</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> 
 
+  * **2026-06-18**: New paper accepted for publication in IEEE Antennas and Wireless Propagation Letters. 
   * **2026-06-12**: Juan de la Cierva Awardee ([link](https://www.aei.gob.es/sites/default/files/convocatory_info/2026-06/PRP_SELECCIONADOS_RESERVAS_JDC%202025_firmada.pdf)).  
   * **2026-01-21**: Our paper "AI-Powered Orchestration-as-a-Service for 6G Networks: The 6G-CLOUD View" has been accepted for publication in IEEE Communications Standards Magazine.   
   * **2025-12-15**: Premio Extraordinario de Doctorado UC3M ([link](https://sede.uc3m.es/boel/anexo/11165/)).    
