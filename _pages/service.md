@@ -31,6 +31,8 @@ redirect_from:
 <h1 style="margin-bottom: 0.2em;">Reviewing duties</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
+  * IEEE International Symposium on Network Computing and Applications (NCA) 2026. 
+
   * IEEE Transactions on Mobile Computing 2025. 
   
   * Computer Communications 2025. 
