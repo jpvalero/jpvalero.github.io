@@ -10,11 +10,9 @@ redirect_from:
 <h1 style="margin-bottom: 0.2em;">Short Bio</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 <p style="text-align: justify;">
-
-I am a postdoctoral researcher at the University of Murcia (UMU), where I work under the guidance of Prof.
-<a href="https://portalinvestigacion.um.es/investigadores/333163/detalle" target="_blank">Antonio Skarmeta</a>.
-My research interests lie at the intersection of communication system analysis, design, and network optimization, with a strong emphasis on energy efficiency, reliability, and practical deployment evaluations.
+I am an **Assistant Professor** in the Department of Electromagnetism and Electronics at <a href="https://www.um.es/" target="_blank">University of Murcia</a> My research interests lie at the design and optimization of wireless networks with the use of artificial intelligence. 
 </p>
+
 <p style="text-align: justify;">
 Before joining UMU, I completed my Ph.D. in Telematics Engineering at Universidad Carlos III de Madrid (UC3M) with outstanding thesis award, under the supervision of Prof.
 <a href="https://www.it.uc3m.es/pablo/" target="_blank">Pablo Serrano</a>.
