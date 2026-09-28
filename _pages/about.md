@@ -10,7 +10,7 @@ redirect_from:
 <h1 style="margin-bottom: 0.2em;">Short Bio</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 <p style="text-align: justify;">
-I am an <strong>Assistant Professor</strong> in the Department of Electromagnetism and Electronics at <a href="https://www.um.es/" target="_blank">University of Murcia</a> My research interests lie at the design and optimization of wireless networks with the use of artificial intelligence. 
+I am an Assistant Professor in the Department of Electromagnetism and Electronics at <a href="https://www.um.es/" target="_blank">University of Murcia</a>. My research interests lie at the design and optimization of wireless networks with the use of artificial intelligence. 
 </p>
 
 <p style="text-align: justify;">
