@@ -13,21 +13,21 @@ I have co-authored peer-reviewed publications in top-tier international journals
 <h1 style="margin-bottom: 0.2em;">Journals</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
-[8] A. Gil-Martínez, **J. Perez-Valero**, J. Sarrazin, G. Valerio, J. L. Gómez-Tornero and A. Skarmeta, "[Hybrid Monopulse-Deep-Learning-Based Blind-Spot Compensation for Full-Azimuthal Leaky-Wave Antenna Systems](/PDFs/papers/journals/gil2026hybrid.pdf)," in IEEE Antennas and Wireless Propagation Letters, doi: 10.1109/LAWP.2026.3705943 **Q1 in JCR**
+[8] A. Gil-Martínez, **J. Perez-Valero**, J. Sarrazin, G. Valerio, J. L. Gómez-Tornero and A. Skarmeta, "[Hybrid Monopulse-Deep-Learning-Based Blind-Spot Compensation for Full-Azimuthal Leaky-Wave Antenna Systems](/PDFs/papers/journals/gil2026hybrid.pdf)," in IEEE Antennas and Wireless Propagation Letters, doi: 10.1109/LAWP.2026.3705943 
+ 
+[7] **J. Perez-Valero**, G. Garcia-Aviles, A. Skarmeta and T. Chen, "[AI-Powered Orchestration-as-a-Service for 6G Networks: The 6G-CLOUD View](/PDFs/papers/journals/valero2026OaaS.pdf)," in IEEE Communications Standards Magazine, doi: 10.1109/MCOMSTD.2026.3656636 
 
-[7] **J. Perez-Valero**, G. Garcia-Aviles, A. Skarmeta and T. Chen, "[AI-Powered Orchestration-as-a-Service for 6G Networks: The 6G-CLOUD View](/PDFs/papers/journals/valero2026OaaS.pdf)," in IEEE Communications Standards Magazine, doi: 10.1109/MCOMSTD.2026.3656636 **Q1 in JCR**
+[6] L. E. Chatzieleftheriou, **J. Perez-Valero**, J. Martín-Pérez and P. Serrano, "[Optimal Scaling and Offloading for Sustainable Provision of Reliable V2N Services in Dynamic and Static Scenarios](/PDFs/papers/journals/chatzieleftheriou2025optimal.pdf)," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2025.3605408 
 
-[6] L. E. Chatzieleftheriou, **J. Perez-Valero**, J. Martín-Pérez and P. Serrano, "[Optimal Scaling and Offloading for Sustainable Provision of Reliable V2N Services in Dynamic and Static Scenarios](/PDFs/papers/journals/chatzieleftheriou2025optimal.pdf)," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2025.3605408 **Q1 in JCR**
+[5] **J. Perez-Valero**, P. Serrano, J. Garcia-Reinoso, A. Banchs and X. Costa-Perez, "[Minimum-Cost Design of Auto-Scaling Server Farms Providing Reliability Guarantees](/PDFs/papers/journals/perez2025optimal.pdf)," in IEEE Open Journal of the Communications Society, doi: 10.1109/OJCOMS.2025.3586088 
 
-[5] **J. Perez-Valero**, P. Serrano, J. Garcia-Reinoso, A. Banchs and X. Costa-Perez, "[Minimum-Cost Design of Auto-Scaling Server Farms Providing Reliability Guarantees](/PDFs/papers/journals/perez2025optimal.pdf)," in IEEE Open Journal of the Communications Society, doi: 10.1109/OJCOMS.2025.3586088 **Q1 in JCR** 
+[4] **Jesus Perez-Valero**, Jaime Garcia-Reinoso, Albert Banchs, Pablo Serrano, Jorge Ortin, Xavier Costa-Perez. "[Performance trade-offs of auto scaling schemes for NFV with reliability requirements](/PDFs/papers/journals/perez2023performance.pdf)". Computer Communications 2023. 
 
-[4] **Jesus Perez-Valero**, Jaime Garcia-Reinoso, Albert Banchs, Pablo Serrano, Jorge Ortin, Xavier Costa-Perez. "[Performance trade-offs of auto scaling schemes for NFV with reliability requirements](/PDFs/papers/journals/perez2023performance.pdf)". Computer Communications 2023. **Q1 in JCR**
+[3] **J. Perez-Valero**, A. Banchs, P. Serrano, J. Ortín, J. Garcia-Reinoso and X. Costa-Pérez, "[Energy-Aware Adaptive Scaling of Server Farms for NFV with Reliability Requirements](/PDFs/papers/journals/perez2023energy.pdf)," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2023.3288604. 
 
-[3] **J. Perez-Valero**, A. Banchs, P. Serrano, J. Ortín, J. Garcia-Reinoso and X. Costa-Pérez, "[Energy-Aware Adaptive Scaling of Server Farms for NFV with Reliability Requirements](/PDFs/papers/journals/perez2023energy.pdf)," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2023.3288604. **Q1 in JCR**
+[2] **Pérez-Valero, J.**; Garcia-Sanchez, A.-J.; Ruiz Marín, M.; Garcia-Haro , J. [A Prototype Framework Design for Assisting the Detection of Atrial Fibrillation Using a Generic Low-Cost Biomedical Sensor](/PDFs/papers/journals/perez2020prototype.pdf). Sensors 2020, 20, 896. 
 
-[2] **Pérez-Valero, J.**; Garcia-Sanchez, A.-J.; Ruiz Marín, M.; Garcia-Haro , J. [A Prototype Framework Design for Assisting the Detection of Atrial Fibrillation Using a Generic Low-Cost Biomedical Sensor](/PDFs/papers/journals/perez2020prototype.pdf). Sensors 2020, 20, 896. **Q1 in JCR**
-
-[1] **Pérez-Valero, J.**; Caballero Pintado, M.V.; Melgarejo, F.; García-Sánchez, A.-J.; Garcia-Haro, J.; García Córdoba, F.; García Córdoba, J.A.; Pinar, E.; García Alberola, A.; Matilla-García, M.; Curtin, P.; Arora, M.; Ruiz Marín, M. [Symbolic Recurrence Analysis of RR Interval to Detect Atrial Fibrillation](/PDFs/papers/journals/perez2019symbolic.pdf). J. Clin. Med. 2019, 8, 1840. **Q1 in JCR**
+[1] **Pérez-Valero, J.**; Caballero Pintado, M.V.; Melgarejo, F.; García-Sánchez, A.-J.; Garcia-Haro, J.; García Córdoba, F.; García Córdoba, J.A.; Pinar, E.; García Alberola, A.; Matilla-García, M.; Curtin, P.; Arora, M.; Ruiz Marín, M. [Symbolic Recurrence Analysis of RR Interval to Detect Atrial Fibrillation](/PDFs/papers/journals/perez2019symbolic.pdf). J. Clin. Med. 2019, 8, 1840. 
 
 
 <!-- ############### CONFERENCES AND WORKSHOPS  ############### -->
@@ -40,7 +40,7 @@ I have co-authored peer-reviewed publications in top-tier international journals
 
 [5] **J. Perez-Valero**, G. Garcia-Aviles, A. E. Giannopoulos, S. T. Spantideas, A. Skarmeta and S. Kukliński, "[Rethinking AI-Powered Service Orchestration: The Case for Decentralization](/PDFs/papers/conferences/perez2025rethinking.pdf)," 2025 IEEE 11th International Conference on Network Softwarization (NetSoft), Budapest, Hungary, 2025, pp. 13-18
 
-[4] Livia Elena Chatzieleftheriou, **Jesus Perez-Valero**, Jorge Martín-Pérez, and Pablo Serrano. 2024. [Sustainable Provision of URLLC Services for V2N: Analysis and Optimal Configuration](/PDFs/papers/conferences/chatzieleftheriou2024sustainable.pdf). In International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’24), October 14–17, 2024, Athens, Greece. ACM, New York, NY, USA. **CORE A, top conference in computer networks** 
+[4] Livia Elena Chatzieleftheriou, **Jesus Perez-Valero**, Jorge Martín-Pérez, and Pablo Serrano. 2024. [Sustainable Provision of URLLC Services for V2N: Analysis and Optimal Configuration](/PDFs/papers/conferences/chatzieleftheriou2024sustainable.pdf). In International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’24), October 14–17, 2024, Athens, Greece. ACM, New York, NY, USA. 
 
 [3] Habibi, M. A., Sánchez, A. G., Pavón, I. L., Han, B., Serrano, P., **Pérez-Valero, J.**, ... & Schotten, H. D. (2023). [The Architectural Design of Service Management and Orchestration in 6G Communication Systems](/PDFs/papers/conferences/habibi2023architectural.pdf). IEEE Conference on Computer Communications Workshops (INFOCOM 2023 WKSHPS).
 
