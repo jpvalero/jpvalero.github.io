@@ -6,15 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<!-- 
 <h1 style="margin-bottom: 0.2em;">Teaching</h1>
-<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
+<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> -->
 
 <!-- ############### Current Courses  ############### -->
 <h1 style="margin-bottom: 0.2em;">Current courses</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
-I am currently teaching the following courses at the University of Murcia as an assistant professor: 
+I am currently teaching the following courses at the University of Murcia as an Assistant Professor: 
 
   * Electrónica (3o Grado en Física): 2026/2027
 
@@ -25,7 +25,7 @@ I am currently teaching the following courses at the University of Murcia as an 
 <h1 style="margin-bottom: 0.2em;">Past courses</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
-I was teaching the following courses at the University of Murcia as a postdoctoral pesearcher: 
+I was teaching the following courses at the University of Murcia as a Postdoctoral Researcher: 
 
   * Redes de Datos (3o Grado en Ciencia e Ingeniería de Datos): 2024/2025, 2025/2026
 
@@ -33,7 +33,7 @@ I was teaching the following courses at the University of Murcia as a postdoctor
 
   * Redes de Distribución de Contenidos (4o Grado en Ciencia e Ingeniería de Datos): 2025/2026 (Coord.)
 
-During my time at UC3M as PhD student, I served as teaching assistant for the following courses:
+During my time at UC3M as PhD student, I served as Teaching Assistant for the following courses:
 
   * Teoría de Redes (2o Grado en Ing. Telemática): 2021/2022, 2022/2023   
 
