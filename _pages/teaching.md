@@ -10,7 +10,22 @@ redirect_from:
 <h1 style="margin-bottom: 0.2em;">Teaching</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
-I am currently teaching the following courses at the University of Murcia as a postdoctoral researcher: 
+<!-- ############### Current Courses  ############### -->
+<h1 style="margin-bottom: 0.2em;">Current courses</h1>
+<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
+
+I am currently teaching the following courses at the University of Murcia as an assistant professor: 
+
+  * Electrónica (3o Grado en Física): 2026/2027
+
+  * Fundamentos Físicos de la Informática (1o Grado en Ingeniería Informática): 2026/2027
+
+
+<!-- ############### Past Courses  ############### -->
+<h1 style="margin-bottom: 0.2em;">Past courses</h1>
+<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
+
+I was teaching the following courses at the University of Murcia as a postdoctoral pesearcher: 
 
   * Redes de Datos (3o Grado en Ciencia e Ingeniería de Datos): 2024/2025, 2025/2026
 
