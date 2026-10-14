@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-I have co-authored peer-reviewed publications in top-tier international journals and conferences in my field (CORE A conferences, and Q1 JCR journals).
+I have co-authored peer-reviewed publications in top-tier international journals and conferences in my field. 
 
 <!-- ############### JOURNALS  ############### -->
 <h1 style="margin-bottom: 0.2em;">Journals</h1>
