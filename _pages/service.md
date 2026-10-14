@@ -30,7 +30,7 @@ redirect_from:
   
   * International Workshop on Cloud Technologies and Energy Efficiency in Mobile Communication Networks ([CLEEN2022](https://hexa-x.eu/cleen2022-workshop/)), co-located with PIMRC 2022. 
 
-<h1 style="margin-bottom: 0.2em;">Reviewing duties</h1>
+<h1 style="margin-bottom: 0.2em;">Reviewing Duties</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
   * IEEE International Symposium on Network Computing and Applications (NCA) 2026. 

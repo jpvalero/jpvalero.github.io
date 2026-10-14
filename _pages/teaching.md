@@ -11,7 +11,7 @@ redirect_from:
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> -->
 
 <!-- ############### Current Courses  ############### -->
-<h1 style="margin-bottom: 0.2em;">Current courses</h1>
+<h1 style="margin-bottom: 0.2em;">Current Courses</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
 I am currently teaching the following courses at the University of Murcia as an Assistant Professor: 
@@ -22,7 +22,7 @@ I am currently teaching the following courses at the University of Murcia as an 
 
 
 <!-- ############### Past Courses  ############### -->
-<h1 style="margin-bottom: 0.2em;">Past courses</h1>
+<h1 style="margin-bottom: 0.2em;">Past Courses</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
 I was teaching the following courses at the University of Murcia as a Postdoctoral Researcher: 
