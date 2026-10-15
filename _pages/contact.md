@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<!-- <h1 style="margin-bottom: 0.2em;">Contact Information</h1>
-<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;"> -->
+
 
 <!--
 TODO: Uncomment and complete once you have your office phone extension.
@@ -18,15 +17,18 @@ TODO: Uncomment and complete once you have your office phone extension.
 **Phone:** +34 868 88 XXXX
 -->
 
-<h2 id="location" style="margin-bottom: 0.2em;">Location</h2>
+<!-- <h2 id="location" style="margin-bottom: 0.2em;">Location</h2> -->
+<h1 style="margin-bottom: 0.2em;">Location</h1>
+<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
-<!-- TODO: add your office number, e.g. **Office:** 1.23<br> -->
+**Office:** Laboratorio I (007) <br>
 **Building:** Facultad de Química<br>
-**Department:** Electromagnetism and Electronics<br>
+**Department:** Electromagnetismo y Electrónica<br>
 **Campus:** Espinardo, Murcia
 
-<h2 id="map" style="margin-bottom: 0.2em;">Map</h2>
-
+<!-- <h2 id="map" style="margin-bottom: 0.2em;">Map</h2> -->
+<h1 style="margin-bottom: 0.2em;">Map</h1>
+<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 <div style="position: relative; width: 100%; height: 450px; border-radius: 8px; overflow: hidden; margin-bottom: 1em;">
   <iframe
     src="https://maps.google.com/maps?q=Facultad%20de%20Qu%C3%ADmica%2C%20Campus%20de%20Espinardo%2C%20Universidad%20de%20Murcia&t=&z=16&ie=UTF8&iwloc=&output=embed"
@@ -36,7 +38,9 @@ TODO: Uncomment and complete once you have your office phone extension.
   </iframe>
 </div>
 
-<h2 id="postal-address" style="margin-bottom: 0.2em;">Postal Address</h2>
+<!-- <h2 id="postal-address" style="margin-bottom: 0.2em;">Postal Address</h2> -->
+<h1 style="margin-bottom: 0.2em;">Postal Address</h1>
+<hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
 Jesús Pérez-Valero<br>
 Departamento de Electromagnetismo y Electrónica<br>
