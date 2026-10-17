@@ -21,7 +21,7 @@ TODO: Uncomment and complete once you have your office phone extension.
 <h1 style="margin-bottom: 0.2em;">Location</h1>
 <hr style="border: none; border-top: 2px solid; margin: 0 0 10px 0;">
 
-**Office:** Laboratorio I (007) <br>
+**Office:** Laboratorio I (007). Primera planta <br>
 **Building:** Facultad de Química<br>
 **Department:** Electromagnetismo y Electrónica<br>
 **Campus:** Espinardo, Murcia
